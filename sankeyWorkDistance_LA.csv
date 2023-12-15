@@ -1,0 +1,3664 @@
+areaName,category,value
+Hartlepool,N/A,54589
+Hartlepool,2less,5891
+Hartlepool,2_5,7286
+Hartlepool,5_10,3159
+Hartlepool,10_20,5623
+Hartlepool,20_30,1779
+Hartlepool,30_40,575
+Hartlepool,40_60,363
+Hartlepool,60plus,711
+Hartlepool,home,6570
+Hartlepool,offshore,5792
+Middlesbrough,N/A,87490
+Middlesbrough,2less,7933
+Middlesbrough,2_5,13055
+Middlesbrough,5_10,9102
+Middlesbrough,10_20,3755
+Middlesbrough,20_30,1427
+Middlesbrough,30_40,833
+Middlesbrough,40_60,676
+Middlesbrough,60plus,1069
+Middlesbrough,home,9478
+Middlesbrough,offshore,9106
+Redcar and Cleveland,N/A,80910
+Redcar and Cleveland,2less,5697
+Redcar and Cleveland,2_5,6555
+Redcar and Cleveland,5_10,9153
+Redcar and Cleveland,10_20,9990
+Redcar and Cleveland,20_30,1906
+Redcar and Cleveland,30_40,1002
+Redcar and Cleveland,40_60,814
+Redcar and Cleveland,60plus,1251
+Redcar and Cleveland,home,10019
+Redcar and Cleveland,offshore,9234
+Stockton-on-Tees,N/A,110152
+Stockton-on-Tees,2less,9414
+Stockton-on-Tees,2_5,14069
+Stockton-on-Tees,5_10,16003
+Stockton-on-Tees,10_20,9943
+Stockton-on-Tees,20_30,2085
+Stockton-on-Tees,30_40,1097
+Stockton-on-Tees,40_60,1208
+Stockton-on-Tees,60plus,1561
+Stockton-on-Tees,home,18809
+Stockton-on-Tees,offshore,12254
+Darlington,N/A,58503
+Darlington,2less,8070
+Darlington,2_5,9043
+Darlington,5_10,3522
+Darlington,10_20,4531
+Darlington,20_30,3828
+Darlington,30_40,524
+Darlington,40_60,737
+Darlington,60plus,850
+Darlington,home,11962
+Darlington,offshore,6230
+Halton,N/A,69772
+Halton,2less,7083
+Halton,2_5,9500
+Halton,5_10,8189
+Halton,10_20,7133
+Halton,20_30,2431
+Halton,30_40,1118
+Halton,40_60,329
+Halton,60plus,605
+Halton,home,14548
+Halton,offshore,7770
+East Riding of Yorkshire,N/A,186095
+East Riding of Yorkshire,2less,17912
+East Riding of Yorkshire,2_5,13051
+East Riding of Yorkshire,5_10,17313
+East Riding of Yorkshire,10_20,22337
+East Riding of Yorkshire,20_30,10386
+East Riding of Yorkshire,30_40,5925
+East Riding of Yorkshire,40_60,4593
+East Riding of Yorkshire,60plus,3450
+East Riding of Yorkshire,home,38568
+East Riding of Yorkshire,offshore,22586
+North East Lincolnshire,N/A,88114
+North East Lincolnshire,2less,11295
+North East Lincolnshire,2_5,17800
+North East Lincolnshire,5_10,8712
+North East Lincolnshire,10_20,5179
+North East Lincolnshire,20_30,1997
+North East Lincolnshire,30_40,1220
+North East Lincolnshire,40_60,742
+North East Lincolnshire,60plus,1233
+North East Lincolnshire,home,9605
+North East Lincolnshire,offshore,11066
+York,N/A,106623
+York,2less,14433
+York,2_5,17389
+York,5_10,7608
+York,10_20,3706
+York,20_30,2245
+York,30_40,2114
+York,40_60,1786
+York,60plus,1492
+York,home,34159
+York,offshore,11267
+Derby,N/A,145163
+Derby,2less,16294
+Derby,2_5,24874
+Derby,5_10,12138
+Derby,10_20,12679
+Derby,20_30,4400
+Derby,30_40,1202
+Derby,40_60,1369
+Derby,60plus,1482
+Derby,home,27260
+Derby,offshore,14504
+Rutland,N/A,22266
+Rutland,2less,2718
+Rutland,2_5,818
+Rutland,5_10,1582
+Rutland,10_20,2008
+Rutland,20_30,1210
+Rutland,30_40,657
+Rutland,40_60,403
+Rutland,60plus,412
+Rutland,home,6404
+Rutland,offshore,2572
+Nottingham,N/A,194765
+Nottingham,2less,17317
+Nottingham,2_5,27092
+Nottingham,5_10,17441
+Nottingham,10_20,7857
+Nottingham,20_30,3604
+Nottingham,30_40,1342
+Nottingham,40_60,761
+Nottingham,60plus,2717
+Nottingham,home,32915
+Nottingham,offshore,17821
+Herefordshire,N/A,98523
+Herefordshire,2less,13123
+Herefordshire,2_5,10006
+Herefordshire,5_10,7757
+Herefordshire,10_20,9945
+Herefordshire,20_30,5139
+Herefordshire,30_40,1993
+Herefordshire,40_60,1608
+Herefordshire,60plus,2112
+Herefordshire,home,22618
+Herefordshire,offshore,14210
+Telford and Wrekin,N/A,100044
+Telford and Wrekin,2less,9829
+Telford and Wrekin,2_5,15548
+Telford and Wrekin,5_10,12318
+Telford and Wrekin,10_20,6781
+Telford and Wrekin,20_30,4567
+Telford and Wrekin,30_40,1880
+Telford and Wrekin,40_60,1461
+Telford and Wrekin,60plus,1426
+Telford and Wrekin,home,20430
+Telford and Wrekin,offshore,11257
+Stoke-on-Trent,N/A,145789
+Stoke-on-Trent,2less,15678
+Stoke-on-Trent,2_5,25099
+Stoke-on-Trent,5_10,21545
+Stoke-on-Trent,10_20,8558
+Stoke-on-Trent,20_30,3706
+Stoke-on-Trent,30_40,961
+Stoke-on-Trent,40_60,1502
+Stoke-on-Trent,60plus,1581
+Stoke-on-Trent,home,17161
+Stoke-on-Trent,offshore,16789
+Bristol,N/A,233955
+Bristol,2less,30808
+Bristol,2_5,42525
+Bristol,5_10,25277
+Bristol,10_20,11434
+Bristol,20_30,1827
+Bristol,30_40,1514
+Bristol,40_60,1730
+Bristol,60plus,2561
+Bristol,home,92026
+Bristol,offshore,28808
+North Somerset,N/A,114026
+North Somerset,2less,12386
+North Somerset,2_5,9580
+North Somerset,5_10,9107
+North Somerset,10_20,13035
+North Somerset,20_30,6532
+North Somerset,30_40,2206
+North Somerset,40_60,820
+North Somerset,60plus,1178
+North Somerset,home,33466
+North Somerset,offshore,14392
+Plymouth,N/A,143677
+Plymouth,2less,17167
+Plymouth,2_5,27786
+Plymouth,5_10,21082
+Plymouth,10_20,4302
+Plymouth,20_30,1004
+Plymouth,30_40,1036
+Plymouth,40_60,1761
+Plymouth,60plus,2696
+Plymouth,home,25656
+Plymouth,offshore,18531
+Torbay,N/A,80389
+Torbay,2less,11133
+Torbay,2_5,8196
+Torbay,5_10,8816
+Torbay,10_20,3530
+Torbay,20_30,1551
+Torbay,30_40,1088
+Torbay,40_60,526
+Torbay,60plus,826
+Torbay,home,12155
+Torbay,offshore,11117
+Peterborough,N/A,114705
+Peterborough,2less,13340
+Peterborough,2_5,19954
+Peterborough,5_10,13349
+Peterborough,10_20,4409
+Peterborough,20_30,5347
+Peterborough,30_40,1817
+Peterborough,40_60,1788
+Peterborough,60plus,2265
+Peterborough,home,24747
+Peterborough,offshore,13953
+Luton,N/A,126541
+Luton,2less,13850
+Luton,2_5,15685
+Luton,5_10,8685
+Luton,10_20,8561
+Luton,20_30,5530
+Luton,30_40,2184
+Luton,40_60,3598
+Luton,60plus,1079
+Luton,home,21199
+Luton,offshore,18350
+Medway,N/A,147167
+Medway,2less,13333
+Medway,2_5,16797
+Medway,5_10,12668
+Medway,10_20,13080
+Medway,20_30,5844
+Medway,30_40,3682
+Medway,40_60,5450
+Medway,60plus,1541
+Medway,home,34466
+Medway,offshore,25745
+Bracknell Forest,N/A,58210
+Bracknell Forest,2less,5819
+Bracknell Forest,2_5,6347
+Bracknell Forest,5_10,6070
+Bracknell Forest,10_20,7146
+Bracknell Forest,20_30,2908
+Bracknell Forest,30_40,875
+Bracknell Forest,40_60,848
+Bracknell Forest,60plus,518
+Bracknell Forest,home,26512
+Bracknell Forest,offshore,9358
+West Berkshire,N/A,79141
+West Berkshire,2less,7924
+West Berkshire,2_5,7772
+West Berkshire,5_10,7206
+West Berkshire,10_20,7284
+West Berkshire,20_30,3408
+West Berkshire,30_40,1463
+West Berkshire,40_60,1271
+West Berkshire,60plus,1169
+West Berkshire,home,33988
+West Berkshire,offshore,10822
+Reading,N/A,85358
+Reading,2less,12647
+Reading,2_5,13238
+Reading,5_10,5772
+Reading,10_20,4577
+Reading,20_30,3044
+Reading,30_40,1098
+Reading,40_60,1475
+Reading,60plus,1228
+Reading,home,34950
+Reading,offshore,10836
+Slough,N/A,84799
+Slough,2less,9229
+Slough,2_5,10683
+Slough,5_10,8247
+Slough,10_20,7376
+Slough,20_30,3085
+Slough,30_40,1419
+Slough,40_60,619
+Slough,60plus,647
+Slough,home,19976
+Slough,offshore,12419
+Windsor and Maidenhead,N/A,77194
+Windsor and Maidenhead,2less,6537
+Windsor and Maidenhead,2_5,5780
+Windsor and Maidenhead,5_10,6473
+Windsor and Maidenhead,10_20,6790
+Windsor and Maidenhead,20_30,2373
+Windsor and Maidenhead,30_40,1393
+Windsor and Maidenhead,40_60,979
+Windsor and Maidenhead,60plus,536
+Windsor and Maidenhead,home,36565
+Windsor and Maidenhead,offshore,8876
+Wokingham,N/A,88035
+Wokingham,2less,5384
+Wokingham,2_5,7928
+Wokingham,5_10,8932
+Wokingham,10_20,6154
+Wokingham,20_30,2912
+Wokingham,30_40,1152
+Wokingham,40_60,1378
+Wokingham,60plus,673
+Wokingham,home,45352
+Wokingham,offshore,9602
+Milton Keynes,N/A,143682
+Milton Keynes,2less,12543
+Milton Keynes,2_5,22581
+Milton Keynes,5_10,21221
+Milton Keynes,10_20,6978
+Milton Keynes,20_30,4506
+Milton Keynes,30_40,1457
+Milton Keynes,40_60,1820
+Milton Keynes,60plus,3438
+Milton Keynes,home,52198
+Milton Keynes,offshore,16637
+Brighton and Hove,N/A,137812
+Brighton and Hove,2less,19822
+Brighton and Hove,2_5,19503
+Brighton and Hove,5_10,7872
+Brighton and Hove,10_20,6569
+Brighton and Hove,20_30,2111
+Brighton and Hove,30_40,1988
+Brighton and Hove,40_60,908
+Brighton and Hove,60plus,2807
+Brighton and Hove,home,59495
+Brighton and Hove,offshore,18218
+Portsmouth,N/A,110216
+Portsmouth,2less,16450
+Portsmouth,2_5,16986
+Portsmouth,5_10,11347
+Portsmouth,10_20,4494
+Portsmouth,20_30,3760
+Portsmouth,30_40,1076
+Portsmouth,40_60,730
+Portsmouth,60plus,1861
+Portsmouth,home,24315
+Portsmouth,offshore,16768
+Southampton,N/A,130694
+Southampton,2less,18254
+Southampton,2_5,21608
+Southampton,5_10,14393
+Southampton,10_20,6150
+Southampton,20_30,2259
+Southampton,30_40,1511
+Southampton,40_60,1193
+Southampton,60plus,1857
+Southampton,home,30282
+Southampton,offshore,20720
+County Durham,N/A,299853
+County Durham,2less,22726
+County Durham,2_5,21150
+County Durham,5_10,26460
+County Durham,10_20,37877
+County Durham,20_30,17289
+County Durham,30_40,6310
+County Durham,40_60,2178
+County Durham,60plus,3280
+County Durham,home,53014
+County Durham,offshore,31932
+Cheshire West and Chester,N/A,188062
+Cheshire West and Chester,2less,18552
+Cheshire West and Chester,2_5,18110
+Cheshire West and Chester,5_10,18546
+Cheshire West and Chester,10_20,20348
+Cheshire West and Chester,20_30,11155
+Cheshire West and Chester,30_40,4243
+Cheshire West and Chester,40_60,2421
+Cheshire West and Chester,60plus,2141
+Cheshire West and Chester,home,53184
+Cheshire West and Chester,offshore,20388
+Shropshire,N/A,171183
+Shropshire,2less,19254
+Shropshire,2_5,13148
+Shropshire,5_10,11755
+Shropshire,10_20,16975
+Shropshire,20_30,12384
+Shropshire,30_40,5287
+Shropshire,40_60,4854
+Shropshire,60plus,3947
+Shropshire,home,41525
+Shropshire,offshore,23294
+Isles of Scilly,N/A,940
+Isles of Scilly,2less,311
+Isles of Scilly,2_5,32
+Isles of Scilly,5_10,9
+Isles of Scilly,10_20,0
+Isles of Scilly,20_30,0
+Isles of Scilly,30_40,0
+Isles of Scilly,40_60,13
+Isles of Scilly,60plus,216
+Isles of Scilly,home,322
+Isles of Scilly,offshore,211
+Wiltshire,N/A,257988
+Wiltshire,2less,29517
+Wiltshire,2_5,18751
+Wiltshire,5_10,22318
+Wiltshire,10_20,28376
+Wiltshire,20_30,11760
+Wiltshire,30_40,8488
+Wiltshire,40_60,6689
+Wiltshire,60plus,5146
+Wiltshire,home,85967
+Wiltshire,offshore,35331
+Bedford,N/A,94360
+Bedford,2less,10705
+Bedford,2_5,13721
+Bedford,5_10,6940
+Bedford,10_20,8223
+Bedford,20_30,5287
+Bedford,30_40,1577
+Bedford,40_60,1312
+Bedford,60plus,2195
+Bedford,home,28568
+Bedford,offshore,12336
+Central Bedfordshire,N/A,143175
+Central Bedfordshire,2less,13038
+Central Bedfordshire,2_5,10108
+Central Bedfordshire,5_10,12142
+Central Bedfordshire,10_20,19692
+Central Bedfordshire,20_30,9078
+Central Bedfordshire,30_40,4511
+Central Bedfordshire,40_60,4655
+Central Bedfordshire,60plus,2345
+Central Bedfordshire,home,52153
+Central Bedfordshire,offshore,23355
+Northumberland,N/A,179790
+Northumberland,2less,15804
+Northumberland,2_5,9758
+Northumberland,5_10,14851
+Northumberland,10_20,20726
+Northumberland,20_30,8955
+Northumberland,30_40,4064
+Northumberland,40_60,3356
+Northumberland,60plus,3755
+Northumberland,home,38430
+Northumberland,offshore,21078
+Bournemouth Christchurch and Poole,N/A,214164
+Bournemouth Christchurch and Poole,2less,23231
+Bournemouth Christchurch and Poole,2_5,33408
+Bournemouth Christchurch and Poole,5_10,24931
+Bournemouth Christchurch and Poole,10_20,11865
+Bournemouth Christchurch and Poole,20_30,1925
+Bournemouth Christchurch and Poole,30_40,2079
+Bournemouth Christchurch and Poole,40_60,2012
+Bournemouth Christchurch and Poole,60plus,2659
+Bournemouth Christchurch and Poole,home,55150
+Bournemouth Christchurch and Poole,offshore,28772
+Dorset,N/A,211802
+Dorset,2less,20688
+Dorset,2_5,13127
+Dorset,5_10,16944
+Dorset,10_20,18176
+Dorset,20_30,8677
+Dorset,30_40,6296
+Dorset,40_60,4856
+Dorset,60plus,3641
+Dorset,home,47397
+Dorset,offshore,27975
+Buckinghamshire,N/A,279842
+Buckinghamshire,2less,22831
+Buckinghamshire,2_5,20522
+Buckinghamshire,5_10,20961
+Buckinghamshire,10_20,25735
+Buckinghamshire,20_30,15610
+Buckinghamshire,30_40,8216
+Buckinghamshire,40_60,7128
+Buckinghamshire,60plus,2716
+Buckinghamshire,home,112181
+Buckinghamshire,offshore,37336
+North Northamptonshire,N/A,180670
+North Northamptonshire,2less,21942
+North Northamptonshire,2_5,23847
+North Northamptonshire,5_10,19142
+North Northamptonshire,10_20,25585
+North Northamptonshire,20_30,10935
+North Northamptonshire,30_40,4402
+North Northamptonshire,40_60,2569
+North Northamptonshire,60plus,3301
+North Northamptonshire,home,42162
+North Northamptonshire,offshore,24970
+West Northamptonshire,N/A,209730
+West Northamptonshire,2less,22493
+West Northamptonshire,2_5,31168
+West Northamptonshire,5_10,24198
+West Northamptonshire,10_20,20405
+West Northamptonshire,20_30,12442
+West Northamptonshire,30_40,4758
+West Northamptonshire,40_60,3351
+West Northamptonshire,60plus,4250
+West Northamptonshire,home,62832
+West Northamptonshire,offshore,30097
+Cambridge,N/A,75076
+Cambridge,2less,10723
+Cambridge,2_5,12729
+Cambridge,5_10,3283
+Cambridge,10_20,2145
+Cambridge,20_30,1157
+Cambridge,30_40,542
+Cambridge,40_60,1179
+Cambridge,60plus,1298
+Cambridge,home,32113
+Cambridge,offshore,5429
+East Cambridgeshire,N/A,43067
+East Cambridgeshire,2less,3450
+East Cambridgeshire,2_5,2123
+East Cambridgeshire,5_10,4614
+East Cambridgeshire,10_20,5692
+East Cambridgeshire,20_30,4427
+East Cambridgeshire,30_40,1356
+East Cambridgeshire,40_60,571
+East Cambridgeshire,60plus,690
+East Cambridgeshire,home,15606
+East Cambridgeshire,offshore,6166
+Fenland,N/A,55357
+Fenland,2less,7230
+Fenland,2_5,4130
+Fenland,5_10,3695
+Fenland,10_20,6212
+Fenland,20_30,4581
+Fenland,30_40,1863
+Fenland,40_60,1050
+Fenland,60plus,960
+Fenland,home,9463
+Fenland,offshore,7921
+South Cambridgeshire,N/A,79852
+South Cambridgeshire,2less,4121
+South Cambridgeshire,2_5,5984
+South Cambridgeshire,5_10,9504
+South Cambridgeshire,10_20,11469
+South Cambridgeshire,20_30,2855
+South Cambridgeshire,30_40,1181
+South Cambridgeshire,40_60,1088
+South Cambridgeshire,60plus,1343
+South Cambridgeshire,home,36046
+South Cambridgeshire,offshore,8676
+Allerdale,N/A,51919
+Allerdale,2less,5985
+Allerdale,2_5,3411
+Allerdale,5_10,3677
+Allerdale,10_20,5773
+Allerdale,20_30,4863
+Allerdale,30_40,1675
+Allerdale,40_60,1354
+Allerdale,60plus,646
+Allerdale,home,10757
+Allerdale,offshore,6095
+Barrow-in-Furness,N/A,36224
+Barrow-in-Furness,2less,8054
+Barrow-in-Furness,2_5,7550
+Barrow-in-Furness,5_10,3033
+Barrow-in-Furness,10_20,1341
+Barrow-in-Furness,20_30,382
+Barrow-in-Furness,30_40,655
+Barrow-in-Furness,40_60,202
+Barrow-in-Furness,60plus,442
+Barrow-in-Furness,home,6051
+Barrow-in-Furness,offshore,3475
+Carlisle,N/A,57074
+Carlisle,2less,10225
+Carlisle,2_5,11049
+Carlisle,5_10,5106
+Carlisle,10_20,3934
+Carlisle,20_30,1684
+Carlisle,30_40,915
+Carlisle,40_60,883
+Carlisle,60plus,1208
+Carlisle,home,10187
+Carlisle,offshore,7759
+Copeland,N/A,36506
+Copeland,2less,3291
+Copeland,2_5,3202
+Copeland,5_10,3735
+Copeland,10_20,6651
+Copeland,20_30,1049
+Copeland,30_40,359
+Copeland,40_60,839
+Copeland,60plus,526
+Copeland,home,7778
+Copeland,offshore,3141
+Eden,N/A,27400
+Eden,2less,3851
+Eden,2_5,1402
+Eden,5_10,2182
+Eden,10_20,2921
+Eden,20_30,1942
+Eden,30_40,1192
+Eden,40_60,713
+Eden,60plus,576
+Eden,home,7682
+Eden,offshore,4875
+South Lakeland,N/A,54313
+South Lakeland,2less,7928
+South Lakeland,2_5,3973
+South Lakeland,5_10,3835
+South Lakeland,10_20,6965
+South Lakeland,20_30,2847
+South Lakeland,30_40,1361
+South Lakeland,40_60,729
+South Lakeland,60plus,1012
+South Lakeland,home,13692
+South Lakeland,offshore,7795
+Amber Valley,N/A,66035
+Amber Valley,2less,6638
+Amber Valley,2_5,6676
+Amber Valley,5_10,8061
+Amber Valley,10_20,10542
+Amber Valley,20_30,2649
+Amber Valley,30_40,636
+Amber Valley,40_60,479
+Amber Valley,60plus,770
+Amber Valley,home,15225
+Amber Valley,offshore,8494
+Bolsover,N/A,42173
+Bolsover,2less,4217
+Bolsover,2_5,3700
+Bolsover,5_10,6307
+Bolsover,10_20,6866
+Bolsover,20_30,2310
+Bolsover,30_40,941
+Bolsover,40_60,590
+Bolsover,60plus,584
+Bolsover,home,6884
+Bolsover,offshore,5701
+Chesterfield,N/A,56037
+Chesterfield,2less,6470
+Chesterfield,2_5,8903
+Chesterfield,5_10,5350
+Chesterfield,10_20,5687
+Chesterfield,20_30,1321
+Chesterfield,30_40,956
+Chesterfield,40_60,520
+Chesterfield,60plus,584
+Chesterfield,home,10772
+Chesterfield,offshore,6970
+Derbyshire Dales,N/A,38312
+Derbyshire Dales,2less,3375
+Derbyshire Dales,2_5,2077
+Derbyshire Dales,5_10,2675
+Derbyshire Dales,10_20,4481
+Derbyshire Dales,20_30,2451
+Derbyshire Dales,30_40,949
+Derbyshire Dales,40_60,516
+Derbyshire Dales,60plus,412
+Derbyshire Dales,home,11376
+Derbyshire Dales,offshore,4915
+Erewash,N/A,57940
+Erewash,2less,6615
+Erewash,2_5,6097
+Erewash,5_10,9316
+Erewash,10_20,8664
+Erewash,20_30,1397
+Erewash,30_40,502
+Erewash,40_60,372
+Erewash,60plus,608
+Erewash,home,13607
+Erewash,offshore,7789
+High Peak,N/A,46319
+High Peak,2less,6841
+High Peak,2_5,3637
+High Peak,5_10,4112
+High Peak,10_20,6135
+High Peak,20_30,2607
+High Peak,30_40,963
+High Peak,40_60,580
+High Peak,60plus,492
+High Peak,home,12973
+High Peak,offshore,6274
+North East Derbyshire,N/A,55438
+North East Derbyshire,2less,3502
+North East Derbyshire,2_5,4782
+North East Derbyshire,5_10,8036
+North East Derbyshire,10_20,7376
+North East Derbyshire,20_30,2182
+North East Derbyshire,30_40,765
+North East Derbyshire,40_60,622
+North East Derbyshire,60plus,611
+North East Derbyshire,home,11576
+North East Derbyshire,offshore,7111
+Exeter,N/A,71009
+Exeter,2less,11839
+Exeter,2_5,12314
+Exeter,5_10,3274
+Exeter,10_20,2390
+Exeter,20_30,1503
+Exeter,30_40,448
+Exeter,40_60,773
+Exeter,60plus,1101
+Exeter,home,18285
+Exeter,offshore,7773
+Mid Devon,N/A,42570
+Mid Devon,2less,5134
+Mid Devon,2_5,2006
+Mid Devon,5_10,3487
+Mid Devon,10_20,5767
+Mid Devon,20_30,3241
+Mid Devon,30_40,792
+Mid Devon,40_60,853
+Mid Devon,60plus,642
+Mid Devon,home,11963
+Mid Devon,offshore,6397
+North Devon,N/A,53448
+North Devon,2less,8004
+North Devon,2_5,4983
+North Devon,5_10,4355
+North Devon,10_20,5833
+North Devon,20_30,1411
+North Devon,30_40,498
+North Devon,40_60,706
+North Devon,60plus,932
+North Devon,home,10957
+North Devon,offshore,7486
+Teignbridge,N/A,72666
+Teignbridge,2less,6660
+Teignbridge,2_5,5689
+Teignbridge,5_10,7532
+Teignbridge,10_20,8666
+Teignbridge,20_30,3248
+Teignbridge,30_40,911
+Teignbridge,40_60,863
+Teignbridge,60plus,892
+Teignbridge,home,17497
+Teignbridge,offshore,10178
+Torridge,N/A,38061
+Torridge,2less,3576
+Torridge,2_5,2405
+Torridge,5_10,2227
+Torridge,10_20,5108
+Torridge,20_30,1650
+Torridge,30_40,593
+Torridge,40_60,460
+Torridge,60plus,713
+Torridge,home,7776
+Torridge,offshore,5546
+West Devon,N/A,31712
+West Devon,2less,2914
+West Devon,2_5,909
+West Devon,5_10,2238
+West Devon,10_20,2888
+West Devon,20_30,1471
+West Devon,30_40,1187
+West Devon,40_60,933
+West Devon,60plus,413
+West Devon,home,7973
+West Devon,offshore,4459
+Eastbourne,N/A,57855
+Eastbourne,2less,8250
+Eastbourne,2_5,9192
+Eastbourne,5_10,2009
+Eastbourne,10_20,2585
+Eastbourne,20_30,2047
+Eastbourne,30_40,861
+Eastbourne,40_60,491
+Eastbourne,60plus,764
+Eastbourne,home,10125
+Eastbourne,offshore,7507
+Hastings,N/A,50096
+Hastings,2less,6476
+Hastings,2_5,8006
+Hastings,5_10,2744
+Hastings,10_20,1450
+Hastings,20_30,1552
+Hastings,30_40,675
+Hastings,40_60,514
+Hastings,60plus,801
+Hastings,home,10943
+Hastings,offshore,7738
+Lewes,N/A,55398
+Lewes,2less,4403
+Lewes,2_5,2684
+Lewes,5_10,4137
+Lewes,10_20,6689
+Lewes,20_30,1654
+Lewes,30_40,628
+Lewes,40_60,519
+Lewes,60plus,724
+Lewes,home,15713
+Lewes,offshore,7354
+Braintree,N/A,78984
+Braintree,2less,7697
+Braintree,2_5,4934
+Braintree,5_10,5478
+Braintree,10_20,10634
+Braintree,20_30,5481
+Braintree,30_40,2302
+Braintree,40_60,2764
+Braintree,60plus,1500
+Braintree,home,21933
+Braintree,offshore,13561
+Brentwood,N/A,39146
+Brentwood,2less,2458
+Brentwood,2_5,2017
+Brentwood,5_10,2615
+Brentwood,10_20,4102
+Brentwood,20_30,2386
+Brentwood,30_40,1644
+Brentwood,40_60,302
+Brentwood,60plus,259
+Brentwood,home,16784
+Brentwood,offshore,5335
+Castle Point,N/A,48581
+Castle Point,2less,3558
+Castle Point,2_5,3758
+Castle Point,5_10,5436
+Castle Point,10_20,3174
+Castle Point,20_30,1929
+Castle Point,30_40,894
+Castle Point,40_60,1699
+Castle Point,60plus,328
+Castle Point,home,11672
+Castle Point,offshore,8558
+Chelmsford,N/A,91661
+Chelmsford,2less,8886
+Chelmsford,2_5,9928
+Chelmsford,5_10,5629
+Chelmsford,10_20,7955
+Chelmsford,20_30,4002
+Chelmsford,30_40,2330
+Chelmsford,40_60,3049
+Chelmsford,60plus,715
+Chelmsford,home,34522
+Chelmsford,offshore,12845
+Colchester,N/A,100700
+Colchester,2less,11653
+Colchester,2_5,12856
+Colchester,5_10,7877
+Colchester,10_20,6132
+Colchester,20_30,4522
+Colchester,30_40,2251
+Colchester,40_60,1370
+Colchester,60plus,2917
+Colchester,home,28165
+Colchester,offshore,14272
+Epping Forest,N/A,69184
+Epping Forest,2less,3745
+Epping Forest,2_5,3790
+Epping Forest,5_10,6665
+Epping Forest,10_20,9196
+Epping Forest,20_30,3885
+Epping Forest,30_40,1128
+Epping Forest,40_60,404
+Epping Forest,60plus,359
+Epping Forest,home,25171
+Epping Forest,offshore,11453
+Maldon,N/A,34952
+Maldon,2less,2888
+Maldon,2_5,1394
+Maldon,5_10,2222
+Maldon,10_20,4645
+Maldon,20_30,2147
+Maldon,30_40,628
+Maldon,40_60,1005
+Maldon,60plus,590
+Maldon,home,9789
+Maldon,offshore,5949
+Tendring,N/A,90008
+Tendring,2less,7984
+Tendring,2_5,5310
+Tendring,5_10,4931
+Tendring,10_20,7129
+Tendring,20_30,3780
+Tendring,30_40,948
+Tendring,40_60,1140
+Tendring,60plus,1920
+Tendring,home,13322
+Tendring,offshore,11817
+Cotswold,N/A,46753
+Cotswold,2less,4705
+Cotswold,2_5,1909
+Cotswold,5_10,2987
+Cotswold,10_20,4626
+Cotswold,20_30,3126
+Cotswold,30_40,1428
+Cotswold,40_60,840
+Cotswold,60plus,886
+Cotswold,home,17228
+Cotswold,offshore,6347
+Forest of Dean,N/A,47014
+Forest of Dean,2less,3724
+Forest of Dean,2_5,2433
+Forest of Dean,5_10,3894
+Forest of Dean,10_20,5778
+Forest of Dean,20_30,3401
+Forest of Dean,30_40,1296
+Forest of Dean,40_60,598
+Forest of Dean,60plus,614
+Forest of Dean,home,11230
+Forest of Dean,offshore,7020
+Stroud,N/A,61185
+Stroud,2less,5664
+Stroud,2_5,5364
+Stroud,5_10,6725
+Stroud,10_20,6970
+Stroud,20_30,2817
+Stroud,30_40,1388
+Stroud,40_60,666
+Stroud,60plus,686
+Stroud,home,20942
+Stroud,offshore,8694
+Basingstoke and Deane,N/A,88181
+Basingstoke and Deane,2less,10872
+Basingstoke and Deane,2_5,11058
+Basingstoke and Deane,5_10,6910
+Basingstoke and Deane,10_20,8173
+Basingstoke and Deane,20_30,4614
+Basingstoke and Deane,30_40,1616
+Basingstoke and Deane,40_60,1927
+Basingstoke and Deane,60plus,1681
+Basingstoke and Deane,home,38057
+Basingstoke and Deane,offshore,12065
+East Hampshire,N/A,64012
+East Hampshire,2less,5289
+East Hampshire,2_5,2717
+East Hampshire,5_10,5430
+East Hampshire,10_20,7311
+East Hampshire,20_30,4013
+East Hampshire,30_40,1943
+East Hampshire,40_60,1228
+East Hampshire,60plus,1071
+East Hampshire,home,23141
+East Hampshire,offshore,9591
+Eastleigh,N/A,66927
+Eastleigh,2less,6028
+Eastleigh,2_5,6547
+Eastleigh,5_10,10766
+Eastleigh,10_20,7069
+Eastleigh,20_30,1448
+Eastleigh,30_40,943
+Eastleigh,40_60,706
+Eastleigh,60plus,858
+Eastleigh,home,23893
+Eastleigh,offshore,11258
+Fareham,N/A,58882
+Fareham,2less,4823
+Fareham,2_5,6727
+Fareham,5_10,7411
+Fareham,10_20,6224
+Fareham,20_30,1303
+Fareham,30_40,407
+Fareham,40_60,543
+Fareham,60plus,827
+Fareham,home,19206
+Fareham,offshore,8160
+Gosport,N/A,43468
+Gosport,2less,5381
+Gosport,2_5,6902
+Gosport,5_10,5920
+Gosport,10_20,2511
+Gosport,20_30,1104
+Gosport,30_40,253
+Gosport,40_60,324
+Gosport,60plus,725
+Gosport,home,8865
+Gosport,offshore,6499
+Hart,N/A,48963
+Hart,2less,3618
+Hart,2_5,3261
+Hart,5_10,5885
+Hart,10_20,4723
+Hart,20_30,1694
+Hart,30_40,939
+Hart,40_60,1139
+Hart,60plus,501
+Hart,home,22579
+Hart,offshore,6106
+New Forest,N/A,97083
+New Forest,2less,8646
+New Forest,2_5,6763
+New Forest,5_10,8965
+New Forest,10_20,9347
+New Forest,20_30,4553
+New Forest,30_40,1382
+New Forest,40_60,769
+New Forest,60plus,1367
+New Forest,home,23960
+New Forest,offshore,12950
+Rushmoor,N/A,46741
+Rushmoor,2less,6472
+Rushmoor,2_5,7275
+Rushmoor,5_10,5801
+Rushmoor,10_20,5362
+Rushmoor,20_30,2188
+Rushmoor,30_40,910
+Rushmoor,40_60,1253
+Rushmoor,60plus,671
+Rushmoor,home,15301
+Rushmoor,offshore,7777
+Test Valley,N/A,64631
+Test Valley,2less,6595
+Test Valley,2_5,6064
+Test Valley,5_10,5424
+Test Valley,10_20,5365
+Test Valley,20_30,4178
+Test Valley,30_40,1761
+Test Valley,40_60,1158
+Test Valley,60plus,1279
+Test Valley,home,23856
+Test Valley,offshore,10182
+Winchester,N/A,66871
+Winchester,2less,5881
+Winchester,2_5,4266
+Winchester,5_10,4010
+Winchester,10_20,6404
+Winchester,20_30,2900
+Winchester,30_40,1365
+Winchester,40_60,943
+Winchester,60plus,1319
+Winchester,home,26249
+Winchester,offshore,7237
+Broxbourne,N/A,50701
+Broxbourne,2less,4519
+Broxbourne,2_5,4051
+Broxbourne,5_10,5772
+Broxbourne,10_20,6216
+Broxbourne,20_30,3297
+Broxbourne,30_40,649
+Broxbourne,40_60,329
+Broxbourne,60plus,251
+Broxbourne,home,14218
+Broxbourne,offshore,9004
+Dacorum,N/A,77883
+Dacorum,2less,7714
+Dacorum,2_5,6400
+Dacorum,5_10,5823
+Dacorum,10_20,7784
+Dacorum,20_30,3398
+Dacorum,30_40,2562
+Dacorum,40_60,1027
+Dacorum,60plus,484
+Dacorum,home,30226
+Dacorum,offshore,11780
+Hertsmere,N/A,55061
+Hertsmere,2less,4266
+Hertsmere,2_5,3947
+Hertsmere,5_10,5725
+Hertsmere,10_20,6330
+Hertsmere,20_30,2517
+Hertsmere,30_40,449
+Hertsmere,40_60,258
+Hertsmere,60plus,319
+Hertsmere,home,21051
+Hertsmere,offshore,7900
+North Hertfordshire,N/A,66049
+North Hertfordshire,2less,6942
+North Hertfordshire,2_5,4815
+North Hertfordshire,5_10,5147
+North Hertfordshire,10_20,5435
+North Hertfordshire,20_30,3240
+North Hertfordshire,30_40,1928
+North Hertfordshire,40_60,2229
+North Hertfordshire,60plus,556
+North Hertfordshire,home,28689
+North Hertfordshire,offshore,8180
+Three Rivers,N/A,46823
+Three Rivers,2less,2855
+Three Rivers,2_5,4427
+Three Rivers,5_10,4903
+Three Rivers,10_20,4334
+Three Rivers,20_30,2635
+Three Rivers,30_40,747
+Three Rivers,40_60,306
+Three Rivers,60plus,284
+Three Rivers,home,19608
+Three Rivers,offshore,6849
+Canterbury,N/A,91265
+Canterbury,2less,8881
+Canterbury,2_5,5781
+Canterbury,5_10,7221
+Canterbury,10_20,5817
+Canterbury,20_30,3654
+Canterbury,30_40,1238
+Canterbury,40_60,1114
+Canterbury,60plus,2154
+Canterbury,home,20109
+Canterbury,offshore,10193
+Dartford,N/A,57930
+Dartford,2less,5077
+Dartford,2_5,6882
+Dartford,5_10,5740
+Dartford,10_20,5828
+Dartford,20_30,5010
+Dartford,30_40,1190
+Dartford,40_60,450
+Dartford,60plus,458
+Dartford,home,18217
+Dartford,offshore,9971
+Dover,N/A,65484
+Dover,2less,6324
+Dover,2_5,4147
+Dover,5_10,4550
+Dover,10_20,7953
+Dover,20_30,3701
+Dover,30_40,768
+Dover,40_60,595
+Dover,60plus,1357
+Dover,home,12291
+Dover,offshore,9240
+Gravesham,N/A,57139
+Gravesham,2less,4899
+Gravesham,2_5,4749
+Gravesham,5_10,5286
+Gravesham,10_20,6081
+Gravesham,20_30,2681
+Gravesham,30_40,2254
+Gravesham,40_60,684
+Gravesham,60plus,535
+Gravesham,home,13037
+Gravesham,offshore,9556
+Maidstone,N/A,89373
+Maidstone,2less,8336
+Maidstone,2_5,9418
+Maidstone,5_10,7898
+Maidstone,10_20,8894
+Maidstone,20_30,4094
+Maidstone,30_40,1949
+Maidstone,40_60,2739
+Maidstone,60plus,959
+Maidstone,home,26842
+Maidstone,offshore,15280
+Sevenoaks,N/A,64130
+Sevenoaks,2less,3639
+Sevenoaks,2_5,2946
+Sevenoaks,5_10,4496
+Sevenoaks,10_20,6575
+Sevenoaks,20_30,3556
+Sevenoaks,30_40,1860
+Sevenoaks,40_60,477
+Sevenoaks,60plus,366
+Sevenoaks,home,23775
+Sevenoaks,offshore,8695
+Swale,N/A,82474
+Swale,2less,8371
+Swale,2_5,6864
+Swale,5_10,5859
+Swale,10_20,9022
+Swale,20_30,3807
+Swale,30_40,1584
+Swale,40_60,1796
+Swale,60plus,1570
+Swale,home,17587
+Swale,offshore,12740
+Thanet,N/A,81397
+Thanet,2less,8201
+Thanet,2_5,10407
+Thanet,5_10,6272
+Thanet,10_20,2742
+Thanet,20_30,3210
+Thanet,30_40,709
+Thanet,40_60,781
+Thanet,60plus,1728
+Thanet,home,14408
+Thanet,offshore,10731
+Tonbridge and Malling,N/A,67775
+Tonbridge and Malling,2less,4803
+Tonbridge and Malling,2_5,4826
+Tonbridge and Malling,5_10,6659
+Tonbridge and Malling,10_20,6854
+Tonbridge and Malling,20_30,3207
+Tonbridge and Malling,30_40,1725
+Tonbridge and Malling,40_60,2098
+Tonbridge and Malling,60plus,513
+Tonbridge and Malling,home,23812
+Tonbridge and Malling,offshore,9931
+Tunbridge Wells,N/A,59413
+Tunbridge Wells,2less,5948
+Tunbridge Wells,2_5,5323
+Tunbridge Wells,5_10,4058
+Tunbridge Wells,10_20,4068
+Tunbridge Wells,20_30,1984
+Tunbridge Wells,30_40,1211
+Tunbridge Wells,40_60,1708
+Tunbridge Wells,60plus,512
+Tunbridge Wells,home,23633
+Tunbridge Wells,offshore,7454
+Burnley,N/A,54612
+Burnley,2less,7291
+Burnley,2_5,7492
+Burnley,5_10,5092
+Burnley,10_20,4692
+Burnley,20_30,1298
+Burnley,30_40,900
+Burnley,40_60,359
+Burnley,60plus,324
+Burnley,home,6738
+Burnley,offshore,5850
+Chorley,N/A,60488
+Chorley,2less,5585
+Chorley,2_5,6679
+Chorley,5_10,7009
+Chorley,10_20,8412
+Chorley,20_30,2480
+Chorley,30_40,1481
+Chorley,40_60,473
+Chorley,60plus,524
+Chorley,home,16580
+Chorley,offshore,8019
+Lancaster,N/A,80533
+Lancaster,2less,10066
+Lancaster,2_5,9487
+Lancaster,5_10,7808
+Lancaster,10_20,3502
+Lancaster,20_30,2570
+Lancaster,30_40,2309
+Lancaster,40_60,741
+Lancaster,60plus,1290
+Lancaster,home,15430
+Lancaster,offshore,9198
+Pendle,N/A,56134
+Pendle,2less,7013
+Pendle,2_5,5656
+Pendle,5_10,5008
+Pendle,10_20,4699
+Pendle,20_30,1723
+Pendle,30_40,860
+Pendle,40_60,549
+Pendle,60plus,344
+Pendle,home,7461
+Pendle,offshore,6310
+Preston,N/A,81204
+Preston,2less,9913
+Preston,2_5,13642
+Preston,5_10,7130
+Preston,10_20,5440
+Preston,20_30,2590
+Preston,30_40,928
+Preston,40_60,881
+Preston,60plus,706
+Preston,home,16614
+Preston,offshore,8790
+Rossendale,N/A,37757
+Rossendale,2less,3369
+Rossendale,2_5,3256
+Rossendale,5_10,4053
+Rossendale,10_20,6006
+Rossendale,20_30,2214
+Rossendale,30_40,600
+Rossendale,40_60,266
+Rossendale,60plus,316
+Rossendale,home,8036
+Rossendale,offshore,4997
+South Ribble,N/A,56324
+South Ribble,2less,5530
+South Ribble,2_5,8161
+South Ribble,5_10,8779
+South Ribble,10_20,4762
+South Ribble,20_30,2213
+South Ribble,30_40,1139
+South Ribble,40_60,571
+South Ribble,60plus,439
+South Ribble,home,15731
+South Ribble,offshore,7386
+West Lancashire,N/A,63883
+West Lancashire,2less,6095
+West Lancashire,2_5,5659
+West Lancashire,5_10,6571
+West Lancashire,10_20,8783
+West Lancashire,20_30,3211
+West Lancashire,30_40,927
+West Lancashire,40_60,586
+West Lancashire,60plus,569
+West Lancashire,home,13497
+West Lancashire,offshore,7649
+Wyre,N/A,64111
+Wyre,2less,5355
+Wyre,2_5,6295
+Wyre,5_10,6105
+Wyre,10_20,5910
+Wyre,20_30,2008
+Wyre,30_40,514
+Wyre,40_60,552
+Wyre,60plus,768
+Wyre,home,12479
+Wyre,offshore,7849
+Blaby,N/A,51480
+Blaby,2less,3569
+Blaby,2_5,6593
+Blaby,5_10,8760
+Blaby,10_20,5410
+Blaby,20_30,1665
+Blaby,30_40,816
+Blaby,40_60,769
+Blaby,60plus,535
+Blaby,home,15526
+Blaby,offshore,7803
+Charnwood,N/A,99172
+Charnwood,2less,9411
+Charnwood,2_5,9467
+Charnwood,5_10,11568
+Charnwood,10_20,11684
+Charnwood,20_30,2974
+Charnwood,30_40,1066
+Charnwood,40_60,933
+Charnwood,60plus,1221
+Charnwood,home,25638
+Charnwood,offshore,10838
+Harborough,N/A,48854
+Harborough,2less,4361
+Harborough,2_5,2408
+Harborough,5_10,4890
+Harborough,10_20,7269
+Harborough,20_30,3412
+Harborough,30_40,1154
+Harborough,40_60,803
+Harborough,60plus,788
+Harborough,home,17474
+Harborough,offshore,6212
+Hinckley and Bosworth,N/A,57754
+Hinckley and Bosworth,2less,5652
+Hinckley and Bosworth,2_5,5111
+Hinckley and Bosworth,5_10,6108
+Hinckley and Bosworth,10_20,9419
+Hinckley and Bosworth,20_30,2721
+Hinckley and Bosworth,30_40,1040
+Hinckley and Bosworth,40_60,701
+Hinckley and Bosworth,60plus,647
+Hinckley and Bosworth,home,16666
+Hinckley and Bosworth,offshore,7821
+Melton,N/A,26287
+Melton,2less,3886
+Melton,2_5,1805
+Melton,5_10,1854
+Melton,10_20,3012
+Melton,20_30,2310
+Melton,30_40,805
+Melton,40_60,496
+Melton,60plus,398
+Melton,home,7261
+Melton,offshore,3638
+North West Leicestershire,N/A,52744
+North West Leicestershire,2less,4923
+North West Leicestershire,2_5,4986
+North West Leicestershire,5_10,5269
+North West Leicestershire,10_20,8516
+North West Leicestershire,20_30,3455
+North West Leicestershire,30_40,1329
+North West Leicestershire,40_60,773
+North West Leicestershire,60plus,735
+North West Leicestershire,home,14874
+North West Leicestershire,offshore,7098
+Oadby and Wigston,N/A,31756
+Oadby and Wigston,2less,2713
+Oadby and Wigston,2_5,4057
+Oadby and Wigston,5_10,5103
+Oadby and Wigston,10_20,1491
+Oadby and Wigston,20_30,688
+Oadby and Wigston,30_40,406
+Oadby and Wigston,40_60,357
+Oadby and Wigston,60plus,385
+Oadby and Wigston,home,7477
+Oadby and Wigston,offshore,3312
+East Lindsey,N/A,86719
+East Lindsey,2less,9354
+East Lindsey,2_5,3248
+East Lindsey,5_10,5070
+East Lindsey,10_20,6968
+East Lindsey,20_30,4471
+East Lindsey,30_40,2646
+East Lindsey,40_60,1856
+East Lindsey,60plus,1300
+East Lindsey,home,10993
+East Lindsey,offshore,9672
+Lincoln,N/A,57095
+Lincoln,2less,9136
+Lincoln,2_5,8837
+Lincoln,5_10,4552
+Lincoln,10_20,1924
+Lincoln,20_30,3385
+Lincoln,30_40,605
+Lincoln,40_60,949
+Lincoln,60plus,1167
+Lincoln,home,9451
+Lincoln,offshore,6712
+North Kesteven,N/A,61182
+North Kesteven,2less,4736
+North Kesteven,2_5,4960
+North Kesteven,5_10,7709
+North Kesteven,10_20,6687
+North Kesteven,20_30,4813
+North Kesteven,30_40,1446
+North Kesteven,40_60,1255
+North Kesteven,60plus,1542
+North Kesteven,home,15406
+North Kesteven,offshore,8338
+South Holland,N/A,49888
+South Holland,2less,5767
+South Holland,2_5,6530
+South Holland,5_10,3940
+South Holland,10_20,7114
+South Holland,20_30,4003
+South Holland,30_40,1255
+South Holland,40_60,691
+South Holland,60plus,1003
+South Holland,home,7959
+South Holland,offshore,6972
+South Kesteven,N/A,75210
+South Kesteven,2less,9925
+South Kesteven,2_5,5534
+South Kesteven,5_10,3580
+South Kesteven,10_20,8680
+South Kesteven,20_30,4921
+South Kesteven,30_40,2751
+South Kesteven,40_60,2018
+South Kesteven,60plus,1622
+South Kesteven,home,19428
+South Kesteven,offshore,9733
+Breckland,N/A,75838
+Breckland,2less,8792
+Breckland,2_5,3994
+Breckland,5_10,4348
+Breckland,10_20,10063
+Breckland,20_30,6965
+Breckland,30_40,2911
+Breckland,40_60,1780
+Breckland,60plus,1281
+Breckland,home,14404
+Breckland,offshore,11100
+Broadland,N/A,69132
+Broadland,2less,4389
+Broadland,2_5,6771
+Broadland,5_10,9343
+Broadland,10_20,8164
+Broadland,20_30,2512
+Broadland,30_40,921
+Broadland,40_60,517
+Broadland,60plus,771
+Broadland,home,18934
+Broadland,offshore,10267
+Great Yarmouth,N/A,58609
+Great Yarmouth,2less,6941
+Great Yarmouth,2_5,6238
+Great Yarmouth,5_10,3835
+Great Yarmouth,10_20,3411
+Great Yarmouth,20_30,2592
+Great Yarmouth,30_40,1744
+Great Yarmouth,40_60,1205
+Great Yarmouth,60plus,942
+Great Yarmouth,home,6813
+Great Yarmouth,offshore,7418
+Kings Lynn and West Norfolk,N/A,85102
+Kings Lynn and West Norfolk,2less,8613
+Kings Lynn and West Norfolk,2_5,7801
+Kings Lynn and West Norfolk,5_10,6107
+Kings Lynn and West Norfolk,10_20,9400
+Kings Lynn and West Norfolk,20_30,4454
+Kings Lynn and West Norfolk,30_40,2300
+Kings Lynn and West Norfolk,40_60,2292
+Kings Lynn and West Norfolk,60plus,1951
+Kings Lynn and West Norfolk,home,14162
+Kings Lynn and West Norfolk,offshore,12143
+Norwich,N/A,78202
+Norwich,2less,11212
+Norwich,2_5,13127
+Norwich,5_10,5567
+Norwich,10_20,2713
+Norwich,20_30,1810
+Norwich,30_40,1426
+Norwich,40_60,476
+Norwich,60plus,1229
+Norwich,home,19468
+Norwich,offshore,8692
+South Norfolk,N/A,74199
+South Norfolk,2less,4999
+South Norfolk,2_5,4759
+South Norfolk,5_10,8486
+South Norfolk,10_20,9656
+South Norfolk,20_30,4064
+South Norfolk,30_40,2013
+South Norfolk,40_60,1081
+South Norfolk,60plus,1020
+South Norfolk,home,21339
+South Norfolk,offshore,10331
+Craven,N/A,29795
+Craven,2less,3619
+Craven,2_5,1414
+Craven,5_10,2636
+Craven,10_20,2649
+Craven,20_30,1641
+Craven,30_40,984
+Craven,40_60,714
+Craven,60plus,538
+Craven,home,8833
+Craven,offshore,4106
+Hambleton,N/A,47286
+Hambleton,2less,5507
+Hambleton,2_5,2039
+Hambleton,5_10,3020
+Hambleton,10_20,6197
+Hambleton,20_30,3045
+Hambleton,30_40,1802
+Hambleton,40_60,1491
+Hambleton,60plus,917
+Hambleton,home,13303
+Hambleton,offshore,6083
+Harrogate,N/A,82982
+Harrogate,2less,11092
+Harrogate,2_5,8891
+Harrogate,5_10,5610
+Harrogate,10_20,8137
+Harrogate,20_30,4021
+Harrogate,30_40,1741
+Harrogate,40_60,922
+Harrogate,60plus,1210
+Harrogate,home,28233
+Harrogate,offshore,9828
+Richmondshire,N/A,25097
+Richmondshire,2less,3485
+Warrington,N/A,107783
+Warrington,2less,10064
+Warrington,2_5,17211
+Warrington,5_10,12283
+Warrington,10_20,9141
+Warrington,20_30,5962
+Warrington,30_40,1759
+Warrington,40_60,505
+Warrington,60plus,952
+Warrington,home,32647
+Warrington,offshore,12667
+Blackburn with Darwen,N/A,91181
+Blackburn with Darwen,2less,11599
+Blackburn with Darwen,2_5,12471
+Blackburn with Darwen,5_10,6232
+Blackburn with Darwen,10_20,7746
+Blackburn with Darwen,20_30,2238
+Blackburn with Darwen,30_40,1191
+Blackburn with Darwen,40_60,475
+Blackburn with Darwen,60plus,551
+Blackburn with Darwen,home,12388
+Blackburn with Darwen,offshore,8667
+Blackpool,N/A,81674
+Blackpool,2less,11208
+Blackpool,2_5,13447
+Blackpool,5_10,6795
+Blackpool,10_20,2456
+Blackpool,20_30,1705
+Blackpool,30_40,539
+Blackpool,40_60,497
+Blackpool,60plus,828
+Blackpool,home,12013
+Blackpool,offshore,9874
+Kingston upon Hull,N/A,149222
+Kingston upon Hull,2less,17927
+Kingston upon Hull,2_5,32635
+Kingston upon Hull,5_10,21377
+Kingston upon Hull,10_20,6446
+Kingston upon Hull,20_30,2763
+Kingston upon Hull,30_40,1549
+Kingston upon Hull,40_60,1470
+Kingston upon Hull,60plus,1901
+Kingston upon Hull,home,15534
+Kingston upon Hull,offshore,16187
+North Lincolnshire,N/A,93457
+North Lincolnshire,2less,10651
+North Lincolnshire,2_5,13554
+North Lincolnshire,5_10,8429
+North Lincolnshire,10_20,9924
+North Lincolnshire,20_30,4503
+North Lincolnshire,30_40,2521
+North Lincolnshire,40_60,1411
+North Lincolnshire,60plus,1256
+North Lincolnshire,home,13277
+North Lincolnshire,offshore,10697
+Leicester,N/A,213637
+Leicester,2less,29065
+Leicester,2_5,36598
+Leicester,5_10,18539
+Leicester,10_20,9819
+Leicester,20_30,5286
+Leicester,30_40,3555
+Leicester,40_60,1818
+Leicester,60plus,2399
+Leicester,home,29530
+Leicester,offshore,18325
+Bath and North East Somerset,N/A,103597
+Bath and North East Somerset,2less,11461
+Bath and North East Somerset,2_5,9827
+Bath and North East Somerset,5_10,6889
+Bath and North East Somerset,10_20,10850
+Bath and North East Somerset,20_30,2385
+Bath and North East Somerset,30_40,480
+Bath and North East Somerset,40_60,600
+Bath and North East Somerset,60plus,1154
+Bath and North East Somerset,home,34611
+Bath and North East Somerset,offshore,11555
+South Gloucestershire,N/A,142812
+South Gloucestershire,2less,14084
+South Gloucestershire,2_5,15483
+South Gloucestershire,5_10,22949
+South Gloucestershire,10_20,15231
+South Gloucestershire,20_30,2614
+South Gloucestershire,30_40,1205
+South Gloucestershire,40_60,1273
+South Gloucestershire,60plus,1464
+South Gloucestershire,home,52349
+South Gloucestershire,offshore,20958
+Swindon,N/A,115544
+Swindon,2less,13011
+Swindon,2_5,22630
+Swindon,5_10,15402
+Swindon,10_20,4584
+Swindon,20_30,3227
+Swindon,30_40,1882
+Swindon,40_60,2920
+Swindon,60plus,2189
+Swindon,home,36022
+Swindon,offshore,16002
+Southend-on-Sea,N/A,97427
+Southend-on-Sea,2less,12254
+Southend-on-Sea,2_5,11712
+Southend-on-Sea,5_10,6508
+Southend-on-Sea,10_20,3882
+Southend-on-Sea,20_30,2400
+Southend-on-Sea,30_40,1220
+Southend-on-Sea,40_60,3401
+Southend-on-Sea,60plus,1084
+Southend-on-Sea,home,27823
+Southend-on-Sea,offshore,12975
+Thurrock,N/A,90052
+Thurrock,2less,7684
+Thurrock,2_5,10781
+Thurrock,5_10,8784
+Thurrock,10_20,10527
+Thurrock,20_30,6274
+Thurrock,30_40,3334
+Thurrock,40_60,887
+Thurrock,60plus,743
+Thurrock,home,21081
+Thurrock,offshore,15856
+Isle of Wight,N/A,82549
+Isle of Wight,2less,10045
+Isle of Wight,2_5,5472
+Isle of Wight,5_10,8772
+Isle of Wight,10_20,8456
+Isle of Wight,20_30,810
+Isle of Wight,30_40,215
+Isle of Wight,40_60,479
+Isle of Wight,60plus,782
+Isle of Wight,home,12922
+Isle of Wight,offshore,9957
+Cheshire East,N/A,206285
+Cheshire East,2less,22189
+Cheshire East,2_5,18936
+Cheshire East,5_10,18057
+Cheshire East,10_20,23236
+Cheshire East,20_30,9793
+Cheshire East,30_40,4943
+Cheshire East,40_60,2766
+Cheshire East,60plus,2257
+Cheshire East,home,67827
+Cheshire East,offshore,22483
+Cornwall,N/A,316058
+Cornwall,2less,33604
+Cornwall,2_5,22542
+Cornwall,5_10,23409
+Cornwall,10_20,32388
+Cornwall,20_30,13148
+Cornwall,30_40,6075
+Cornwall,40_60,6157
+Cornwall,60plus,8463
+Cornwall,home,62832
+Cornwall,offshore,45627
+Huntingdonshire,N/A,89441
+Huntingdonshire,2less,9964
+Huntingdonshire,2_5,6300
+Huntingdonshire,5_10,6948
+Huntingdonshire,10_20,10982
+Huntingdonshire,20_30,6581
+Huntingdonshire,30_40,2695
+Huntingdonshire,40_60,1762
+Huntingdonshire,60plus,2057
+Huntingdonshire,home,31900
+Huntingdonshire,offshore,12202
+South Derbyshire,N/A,53302
+South Derbyshire,2less,4480
+South Derbyshire,2_5,5078
+South Derbyshire,5_10,8835
+South Derbyshire,10_20,7825
+South Derbyshire,20_30,2510
+South Derbyshire,30_40,1634
+South Derbyshire,40_60,1164
+South Derbyshire,60plus,744
+South Derbyshire,home,14903
+South Derbyshire,offshore,6732
+East Devon,N/A,84101
+East Devon,2less,7615
+East Devon,2_5,4981
+East Devon,5_10,6794
+East Devon,10_20,9873
+East Devon,20_30,3355
+East Devon,30_40,1484
+East Devon,40_60,678
+East Devon,60plus,1382
+East Devon,home,19757
+East Devon,offshore,10808
+South Hams,N/A,48043
+South Hams,2less,3936
+South Hams,2_5,2710
+South Hams,5_10,3802
+South Hams,10_20,5273
+South Hams,20_30,2097
+South Hams,30_40,1011
+South Hams,40_60,516
+South Hams,60plus,635
+South Hams,home,13451
+South Hams,offshore,7153
+Rother,N/A,55176
+Rother,2less,3600
+Rother,2_5,2554
+Rother,5_10,4167
+Rother,10_20,4291
+Rother,20_30,1573
+Rother,30_40,743
+Rother,40_60,612
+Rother,60plus,838
+Rother,home,12306
+Rother,offshore,7250
+Wealden,N/A,85608
+Wealden,2less,5622
+Wealden,2_5,4654
+Wealden,5_10,6546
+Wealden,10_20,9438
+Wealden,20_30,4818
+Wealden,30_40,1783
+Wealden,40_60,1329
+Wealden,60plus,1018
+Wealden,home,26043
+Wealden,offshore,13290
+Basildon,N/A,98560
+Basildon,2less,8912
+Basildon,2_5,9992
+Basildon,5_10,8179
+Basildon,10_20,8729
+Basildon,20_30,3633
+Basildon,30_40,3501
+Basildon,40_60,2303
+Basildon,60plus,703
+Basildon,home,27225
+Basildon,offshore,15835
+Harlow,N/A,47347
+Harlow,2less,6444
+Harlow,2_5,8138
+Harlow,5_10,3505
+Harlow,10_20,4564
+Harlow,20_30,2928
+Harlow,30_40,1687
+Harlow,40_60,381
+Harlow,60plus,279
+Harlow,home,9631
+Harlow,offshore,8426
+Cheltenham,N/A,59679
+Cheltenham,2less,10013
+Cheltenham,2_5,8993
+Cheltenham,5_10,3363
+Cheltenham,10_20,3833
+Cheltenham,20_30,1626
+Cheltenham,30_40,667
+Cheltenham,40_60,761
+Cheltenham,60plus,943
+Cheltenham,home,21711
+Cheltenham,offshore,7246
+Gloucester,N/A,66795
+Gloucester,2less,10422
+Gloucester,2_5,12041
+Gloucester,5_10,7513
+Gloucester,10_20,6400
+Gloucester,20_30,1226
+Gloucester,30_40,527
+Gloucester,40_60,1212
+Gloucester,60plus,878
+Gloucester,home,15908
+Gloucester,offshore,9492
+Tewkesbury,N/A,48360
+Tewkesbury,2less,4236
+Tewkesbury,2_5,4690
+Tewkesbury,5_10,6900
+Tewkesbury,10_20,5553
+Tewkesbury,20_30,1486
+Tewkesbury,30_40,604
+Tewkesbury,40_60,743
+Tewkesbury,60plus,717
+Tewkesbury,home,15532
+Tewkesbury,offshore,6063
+Havant,N/A,67840
+Havant,2less,5906
+Havant,2_5,7283
+Havant,5_10,7894
+Havant,10_20,6391
+Havant,20_30,1521
+Havant,30_40,687
+Havant,40_60,623
+Havant,60plus,875
+Havant,home,14413
+Havant,offshore,10775
+Watford,N/A,49387
+Watford,2less,7829
+Watford,2_5,5725
+Watford,5_10,3948
+Watford,10_20,4570
+Watford,20_30,3336
+Watford,30_40,572
+Watford,40_60,323
+Watford,60plus,327
+Watford,home,17899
+Watford,offshore,8330
+Folkestone and Hythe,N/A,61939
+Folkestone and Hythe,2less,6157
+Folkestone and Hythe,2_5,4587
+Folkestone and Hythe,5_10,3275
+Folkestone and Hythe,10_20,5644
+Folkestone and Hythe,20_30,2947
+Folkestone and Hythe,30_40,739
+Folkestone and Hythe,40_60,924
+Folkestone and Hythe,60plus,1391
+Folkestone and Hythe,home,13770
+Folkestone and Hythe,offshore,8380
+Fylde,N/A,45658
+Fylde,2less,4000
+Fylde,2_5,3821
+Fylde,5_10,4912
+Fylde,10_20,4147
+Fylde,20_30,1053
+Fylde,30_40,586
+Fylde,40_60,533
+Fylde,60plus,517
+Fylde,home,11361
+Fylde,offshore,4786
+Hyndburn,N/A,46607
+Hyndburn,2less,4846
+Hyndburn,2_5,5984
+Hyndburn,5_10,6600
+Hyndburn,10_20,3675
+Hyndburn,20_30,1450
+Hyndburn,30_40,560
+Hyndburn,40_60,360
+Hyndburn,60plus,301
+Hyndburn,home,6309
+Hyndburn,offshore,5542
+Ribble Valley,N/A,31176
+Ribble Valley,2less,3181
+Ribble Valley,2_5,2210
+Ribble Valley,5_10,3776
+Ribble Valley,10_20,5008
+Ribble Valley,20_30,1578
+Ribble Valley,30_40,931
+Ribble Valley,40_60,636
+Ribble Valley,60plus,297
+Ribble Valley,home,9005
+Ribble Valley,offshore,3765
+Boston,N/A,36871
+Boston,2less,6152
+Boston,2_5,4610
+Boston,5_10,3463
+Boston,10_20,4954
+Boston,20_30,3263
+Boston,30_40,717
+Boston,40_60,907
+Boston,60plus,647
+Boston,home,3558
+Boston,offshore,5360
+West Lindsey,N/A,53017
+West Lindsey,2less,4416
+West Lindsey,2_5,2628
+West Lindsey,5_10,4282
+West Lindsey,10_20,5913
+West Lindsey,20_30,3978
+West Lindsey,30_40,1550
+West Lindsey,40_60,1038
+West Lindsey,60plus,876
+West Lindsey,home,10950
+West Lindsey,offshore,6505
+North Norfolk,N/A,61321
+North Norfolk,2less,5157
+North Norfolk,2_5,2148
+North Norfolk,5_10,3720
+North Norfolk,10_20,5574
+North Norfolk,20_30,3321
+North Norfolk,30_40,1897
+North Norfolk,40_60,739
+North Norfolk,60plus,848
+North Norfolk,home,10106
+North Norfolk,offshore,8149
+Richmondshire,2_5,2570
+Richmondshire,5_10,1907
+Richmondshire,10_20,2774
+Richmondshire,20_30,1217
+Richmondshire,30_40,805
+Richmondshire,40_60,645
+Richmondshire,60plus,819
+Richmondshire,home,6700
+Richmondshire,offshore,3757
+Ryedale,N/A,28746
+Ryedale,2less,3480
+Ryedale,2_5,1556
+Ryedale,5_10,1767
+Ryedale,10_20,3407
+Ryedale,20_30,2016
+Ryedale,30_40,962
+Ryedale,40_60,650
+Ryedale,60plus,547
+Ryedale,home,7609
+Ryedale,offshore,3967
+Selby,N/A,45864
+Selby,2less,4017
+Selby,2_5,2567
+Selby,5_10,3769
+Selby,10_20,7232
+Selby,20_30,4514
+Selby,30_40,1776
+Selby,40_60,957
+Selby,60plus,793
+Selby,home,14331
+Selby,offshore,6171
+Ashfield,N/A,67870
+Ashfield,2less,7139
+Ashfield,2_5,9309
+Ashfield,5_10,9679
+Ashfield,10_20,7595
+Ashfield,20_30,2454
+Ashfield,30_40,785
+Ashfield,40_60,492
+Ashfield,60plus,787
+Ashfield,home,11460
+Ashfield,offshore,8731
+Bassetlaw,N/A,62889
+Bassetlaw,2less,7640
+Bassetlaw,2_5,6616
+Bassetlaw,5_10,5211
+Bassetlaw,10_20,8441
+Bassetlaw,20_30,4629
+Bassetlaw,30_40,1743
+Bassetlaw,40_60,1051
+Bassetlaw,60plus,956
+Bassetlaw,home,10741
+Bassetlaw,offshore,7890
+Broxtowe,N/A,59024
+Broxtowe,2less,4631
+Broxtowe,2_5,7023
+Broxtowe,5_10,8234
+Broxtowe,10_20,5545
+Broxtowe,20_30,1078
+Broxtowe,30_40,549
+Broxtowe,40_60,317
+Broxtowe,60plus,755
+Broxtowe,home,17302
+Broxtowe,offshore,6482
+Gedling,N/A,61076
+Gedling,2less,4758
+Gedling,2_5,8124
+Gedling,5_10,9746
+Gedling,10_20,4600
+Gedling,20_30,1792
+Gedling,30_40,548
+Gedling,40_60,403
+Gedling,60plus,594
+Gedling,home,17220
+Gedling,offshore,8401
+Newark and Sherwood,N/A,65842
+Newark and Sherwood,2less,6915
+Newark and Sherwood,2_5,6285
+Newark and Sherwood,5_10,4528
+Newark and Sherwood,10_20,7895
+Newark and Sherwood,20_30,4713
+Newark and Sherwood,30_40,1671
+Newark and Sherwood,40_60,920
+Newark and Sherwood,60plus,964
+Newark and Sherwood,home,14786
+Newark and Sherwood,offshore,8437
+Rushcliffe,N/A,62099
+Rushcliffe,2less,3431
+Rushcliffe,2_5,4782
+Rushcliffe,5_10,6597
+Rushcliffe,10_20,6558
+Rushcliffe,20_30,2399
+Rushcliffe,30_40,945
+Rushcliffe,40_60,480
+Rushcliffe,60plus,869
+Rushcliffe,home,24680
+Rushcliffe,offshore,6235
+Cherwell,N/A,76044
+Cherwell,2less,12865
+Cherwell,2_5,8561
+Cherwell,5_10,5691
+Cherwell,10_20,8658
+Cherwell,20_30,5510
+Cherwell,30_40,2539
+Cherwell,40_60,1460
+Cherwell,60plus,1593
+Cherwell,home,27343
+Cherwell,offshore,10752
+Oxford,N/A,88714
+Oxford,2less,12938
+Oxford,2_5,14198
+Oxford,5_10,4222
+Oxford,10_20,3184
+Oxford,20_30,923
+Oxford,30_40,920
+Oxford,40_60,581
+Oxford,60plus,1357
+Oxford,home,28427
+Oxford,offshore,6578
+South Oxfordshire,N/A,72609
+South Oxfordshire,2less,6909
+South Oxfordshire,2_5,4417
+South Oxfordshire,5_10,6642
+South Oxfordshire,10_20,8572
+South Oxfordshire,20_30,3974
+South Oxfordshire,30_40,1377
+South Oxfordshire,40_60,1104
+South Oxfordshire,60plus,1065
+South Oxfordshire,home,32709
+South Oxfordshire,offshore,9707
+Vale of White Horse,N/A,68049
+Vale of White Horse,2less,5900
+Vale of White Horse,2_5,4917
+Vale of White Horse,5_10,7513
+Vale of White Horse,10_20,8118
+Vale of White Horse,20_30,3734
+Vale of White Horse,30_40,1191
+Vale of White Horse,40_60,692
+Vale of White Horse,60plus,965
+Vale of White Horse,home,29239
+Vale of White Horse,offshore,8595
+West Oxfordshire,N/A,55311
+West Oxfordshire,2less,7316
+West Oxfordshire,2_5,2897
+West Oxfordshire,5_10,6157
+West Oxfordshire,10_20,7387
+West Oxfordshire,20_30,3571
+West Oxfordshire,30_40,1028
+West Oxfordshire,40_60,551
+West Oxfordshire,60plus,966
+West Oxfordshire,home,20629
+West Oxfordshire,offshore,8424
+Mendip,N/A,60418
+Mendip,2less,7574
+Mendip,2_5,3792
+Mendip,5_10,5108
+Mendip,10_20,6876
+Mendip,20_30,3387
+Mendip,30_40,1514
+Mendip,40_60,625
+Mendip,60plus,700
+Mendip,home,17105
+Mendip,offshore,8990
+Sedgemoor,N/A,66196
+Sedgemoor,2less,8623
+Sedgemoor,2_5,6970
+Sedgemoor,5_10,4611
+Sedgemoor,10_20,9340
+Sedgemoor,20_30,2894
+Sedgemoor,30_40,1503
+Sedgemoor,40_60,1212
+Sedgemoor,60plus,838
+Sedgemoor,home,13532
+Sedgemoor,offshore,9624
+South Somerset,N/A,91740
+South Somerset,2less,12812
+South Somerset,2_5,7642
+South Somerset,5_10,7582
+South Somerset,10_20,10663
+South Somerset,20_30,4867
+South Somerset,30_40,1884
+South Somerset,40_60,1475
+South Somerset,60plus,1441
+South Somerset,home,20337
+South Somerset,offshore,12228
+Cannock Chase,N/A,51642
+Cannock Chase,2less,5534
+Cannock Chase,2_5,6005
+Cannock Chase,5_10,5248
+Cannock Chase,10_20,8416
+Cannock Chase,20_30,3239
+Cannock Chase,30_40,1069
+Cannock Chase,40_60,474
+Cannock Chase,60plus,517
+Cannock Chase,home,9529
+Cannock Chase,offshore,8846
+East Staffordshire,N/A,64701
+East Staffordshire,2less,9355
+East Staffordshire,2_5,8494
+East Staffordshire,5_10,5984
+East Staffordshire,10_20,7604
+East Staffordshire,20_30,3595
+East Staffordshire,30_40,1567
+East Staffordshire,40_60,1047
+East Staffordshire,60plus,731
+East Staffordshire,home,13235
+East Staffordshire,offshore,7706
+Lichfield,N/A,55963
+Lichfield,2less,4229
+Lichfield,2_5,3547
+Lichfield,5_10,5927
+Lichfield,10_20,7713
+Lichfield,20_30,3723
+Lichfield,30_40,974
+Lichfield,40_60,611
+Lichfield,60plus,606
+Lichfield,home,15959
+Lichfield,offshore,7181
+Newcastle-under-Lyme,N/A,66617
+Newcastle-under-Lyme,2less,6608
+Newcastle-under-Lyme,2_5,10618
+Newcastle-under-Lyme,5_10,8934
+Newcastle-under-Lyme,10_20,5518
+Newcastle-under-Lyme,20_30,1818
+Newcastle-under-Lyme,30_40,608
+Newcastle-under-Lyme,40_60,816
+Newcastle-under-Lyme,60plus,953
+Newcastle-under-Lyme,home,13009
+Newcastle-under-Lyme,offshore,7800
+South Staffordshire,N/A,59773
+South Staffordshire,2less,3067
+South Staffordshire,2_5,4091
+South Staffordshire,5_10,8380
+South Staffordshire,10_20,7734
+South Staffordshire,20_30,3064
+South Staffordshire,30_40,1069
+South Staffordshire,40_60,722
+South Staffordshire,60plus,609
+South Staffordshire,home,14069
+South Staffordshire,offshore,7894
+Stafford,N/A,71101
+Stafford,2less,7362
+Stafford,2_5,7505
+Stafford,5_10,6185
+Stafford,10_20,8055
+Stafford,20_30,4863
+Stafford,30_40,1594
+Stafford,40_60,1002
+Stafford,60plus,1048
+Stafford,home,19775
+Stafford,offshore,8375
+Tamworth,N/A,40489
+Tamworth,2less,4736
+Tamworth,2_5,6865
+Tamworth,5_10,3197
+Tamworth,10_20,5210
+Tamworth,20_30,3039
+Tamworth,30_40,825
+Tamworth,40_60,336
+Tamworth,60plus,458
+Tamworth,home,8238
+Tamworth,offshore,5254
+Babergh,N/A,49384
+Babergh,2less,4413
+Babergh,2_5,2815
+Babergh,5_10,3658
+Babergh,10_20,5859
+Babergh,20_30,3079
+Babergh,30_40,1103
+Babergh,40_60,677
+Babergh,60plus,893
+Babergh,home,13171
+Babergh,offshore,7289
+Mid Suffolk,N/A,52675
+Mid Suffolk,2less,3598
+Mid Suffolk,2_5,2860
+Mid Suffolk,5_10,4750
+Mid Suffolk,10_20,7171
+Mid Suffolk,20_30,4185
+Mid Suffolk,30_40,1696
+Mid Suffolk,40_60,1162
+Mid Suffolk,60plus,853
+Mid Suffolk,home,15527
+Mid Suffolk,offshore,8222
+Elmbridge,N/A,71774
+Elmbridge,2less,4145
+Elmbridge,2_5,5395
+Elmbridge,5_10,5673
+Elmbridge,10_20,4922
+Elmbridge,20_30,2850
+Elmbridge,30_40,500
+Elmbridge,40_60,180
+Elmbridge,60plus,320
+Elmbridge,home,35983
+Elmbridge,offshore,7013
+Epsom and Ewell,N/A,41029
+Epsom and Ewell,2less,3385
+Epsom and Ewell,2_5,4010
+Epsom and Ewell,5_10,3867
+Epsom and Ewell,10_20,3399
+Epsom and Ewell,20_30,1479
+Epsom and Ewell,30_40,242
+Epsom and Ewell,40_60,152
+Epsom and Ewell,60plus,170
+Epsom and Ewell,home,17930
+Epsom and Ewell,offshore,5275
+Guildford,N/A,73876
+Guildford,2less,7096
+Guildford,2_5,6356
+Guildford,5_10,5615
+Guildford,10_20,5689
+Guildford,20_30,2319
+Guildford,30_40,1321
+Guildford,40_60,1259
+Guildford,60plus,591
+Guildford,home,30814
+Guildford,offshore,8714
+Mole Valley,N/A,45044
+Mole Valley,2less,3178
+Mole Valley,2_5,2606
+Mole Valley,5_10,3618
+Mole Valley,10_20,4389
+Mole Valley,20_30,1804
+Mole Valley,30_40,754
+Mole Valley,40_60,273
+Mole Valley,60plus,221
+Mole Valley,home,19379
+Mole Valley,offshore,6119
+Reigate and Banstead,N/A,75719
+Reigate and Banstead,2less,6330
+Reigate and Banstead,2_5,7160
+Reigate and Banstead,5_10,7217
+Reigate and Banstead,10_20,6751
+Reigate and Banstead,20_30,3154
+Reigate and Banstead,30_40,1704
+Reigate and Banstead,40_60,614
+Reigate and Banstead,60plus,400
+Reigate and Banstead,home,31589
+Reigate and Banstead,offshore,10208
+Runnymede,N/A,45622
+Runnymede,2less,3899
+Runnymede,2_5,4465
+Runnymede,5_10,4682
+Runnymede,10_20,4074
+Runnymede,20_30,1439
+Runnymede,30_40,721
+Runnymede,40_60,220
+Runnymede,60plus,375
+Runnymede,home,16530
+Runnymede,offshore,6051
+Spelthorne,N/A,51417
+Spelthorne,2less,3674
+Spelthorne,2_5,6305
+Spelthorne,5_10,7864
+Spelthorne,10_20,4518
+Spelthorne,20_30,1942
+Spelthorne,30_40,408
+Spelthorne,40_60,221
+Spelthorne,60plus,310
+Spelthorne,home,18497
+Spelthorne,offshore,7799
+Tandridge,N/A,45299
+Tandridge,2less,2350
+Tandridge,2_5,2509
+Tandridge,5_10,4435
+Tandridge,10_20,4640
+Tandridge,20_30,2176
+Tandridge,30_40,902
+Tandridge,40_60,398
+Tandridge,60plus,208
+Tandridge,home,18441
+Tandridge,offshore,6516
+Waverley,N/A,67507
+Waverley,2less,4903
+Waverley,2_5,3832
+Waverley,5_10,3886
+Waverley,10_20,6282
+Waverley,20_30,1955
+Waverley,30_40,1039
+Waverley,40_60,1640
+Waverley,60plus,528
+Waverley,home,28929
+Waverley,offshore,7728
+Woking,N/A,51201
+Woking,2less,4636
+Woking,2_5,4882
+Woking,5_10,5336
+Woking,10_20,3845
+Woking,20_30,1439
+Woking,30_40,1387
+Woking,40_60,474
+Woking,60plus,307
+Woking,home,23570
+Woking,offshore,6866
+North Warwickshire,N/A,33281
+North Warwickshire,2less,2623
+North Warwickshire,2_5,2782
+North Warwickshire,5_10,4556
+North Warwickshire,10_20,5027
+North Warwickshire,20_30,2227
+North Warwickshire,30_40,736
+North Warwickshire,40_60,322
+North Warwickshire,60plus,352
+North Warwickshire,home,8411
+North Warwickshire,offshore,4718
+Nuneaton and Bedworth,N/A,71083
+Nuneaton and Bedworth,2less,7434
+Nuneaton and Bedworth,2_5,10113
+Nuneaton and Bedworth,5_10,8664
+Nuneaton and Bedworth,10_20,8173
+Nuneaton and Bedworth,20_30,3943
+Nuneaton and Bedworth,30_40,1078
+Nuneaton and Bedworth,40_60,540
+Nuneaton and Bedworth,60plus,788
+Nuneaton and Bedworth,home,14461
+Nuneaton and Bedworth,offshore,7921
+Rugby,N/A,56257
+Rugby,2less,6483
+Rugby,2_5,8730
+Rugby,5_10,6531
+Rugby,10_20,6426
+Rugby,20_30,2808
+Rugby,30_40,1333
+Rugby,40_60,856
+Rugby,60plus,888
+Rugby,home,17792
+Rugby,offshore,6258
+Stratford-on-Avon,N/A,68489
+Stratford-on-Avon,2less,6062
+Stratford-on-Avon,2_5,3015
+Stratford-on-Avon,5_10,5159
+Stratford-on-Avon,10_20,9174
+Stratford-on-Avon,20_30,4249
+Stratford-on-Avon,30_40,2028
+Stratford-on-Avon,40_60,1116
+Stratford-on-Avon,60plus,918
+Stratford-on-Avon,home,26151
+Stratford-on-Avon,offshore,8364
+Warwick,N/A,75705
+Warwick,2less,8293
+Warwick,2_5,7646
+Warwick,5_10,5711
+Warwick,10_20,6553
+Warwick,20_30,2743
+Warwick,30_40,946
+Warwick,40_60,649
+Warwick,60plus,971
+Warwick,home,32535
+Warwick,offshore,6702
+Adur,N/A,34719
+Adur,2less,3313
+Adur,2_5,3396
+Adur,5_10,3961
+Adur,10_20,2516
+Adur,20_30,747
+Adur,30_40,525
+Adur,40_60,223
+Adur,60plus,343
+Adur,home,9266
+Adur,offshore,5533
+Arun,N/A,91698
+Arun,2less,8933
+Arun,2_5,7825
+Arun,5_10,11074
+Arun,10_20,8047
+Arun,20_30,2805
+Arun,30_40,1256
+Arun,40_60,1229
+Arun,60plus,1252
+Arun,home,18060
+Arun,offshore,12710
+Chichester,N/A,67702
+Chichester,2less,7063
+Chichester,2_5,4276
+Chichester,5_10,4436
+Chichester,10_20,6003
+Chichester,20_30,2642
+Chichester,30_40,1177
+Chichester,40_60,1185
+Chichester,60plus,1196
+Chichester,home,19385
+Chichester,offshore,9001
+Crawley,N/A,59592
+Crawley,2less,6667
+Crawley,2_5,10717
+Crawley,5_10,5672
+Crawley,10_20,5544
+Crawley,20_30,1602
+Crawley,30_40,1379
+Crawley,40_60,1536
+Crawley,60plus,467
+Crawley,home,15903
+Crawley,offshore,9411
+Horsham,N/A,74611
+Horsham,2less,5713
+Horsham,2_5,4658
+Horsham,5_10,5170
+Horsham,10_20,8890
+Horsham,20_30,4201
+Horsham,30_40,1708
+Horsham,40_60,1564
+Horsham,60plus,671
+Horsham,home,29417
+Horsham,offshore,10172
+Mid Sussex,N/A,75994
+Mid Sussex,2less,8554
+Mid Sussex,2_5,5552
+Mid Sussex,5_10,5813
+Mid Sussex,10_20,8483
+Mid Sussex,20_30,3142
+Mid Sussex,30_40,1032
+Mid Sussex,40_60,1920
+Mid Sussex,60plus,809
+Mid Sussex,home,31314
+Mid Sussex,offshore,9953
+Worthing,N/A,57781
+Worthing,2less,8719
+Worthing,2_5,8269
+Worthing,5_10,3114
+Worthing,10_20,4363
+Worthing,20_30,2227
+Worthing,30_40,690
+Worthing,40_60,535
+Worthing,60plus,679
+Worthing,home,16767
+Worthing,offshore,8196
+Bromsgrove,N/A,51896
+Bromsgrove,2less,3416
+Bromsgrove,2_5,3415
+Bromsgrove,5_10,5325
+Bromsgrove,10_20,8348
+Bromsgrove,20_30,2402
+Bromsgrove,30_40,668
+Bromsgrove,40_60,367
+Bromsgrove,60plus,515
+Bromsgrove,home,16436
+Bromsgrove,offshore,6395
+Malvern Hills,N/A,43686
+Malvern Hills,2less,3592
+Malvern Hills,2_5,2833
+Malvern Hills,5_10,3424
+Malvern Hills,10_20,4239
+Malvern Hills,20_30,1914
+Malvern Hills,30_40,890
+Malvern Hills,40_60,664
+Malvern Hills,60plus,535
+Malvern Hills,home,12483
+Malvern Hills,offshore,5226
+Redditch,N/A,44342
+Redditch,2less,5918
+Redditch,2_5,9211
+Redditch,5_10,3061
+Redditch,10_20,4364
+Redditch,20_30,2892
+Redditch,30_40,528
+Redditch,40_60,252
+Redditch,60plus,416
+Redditch,home,9872
+Redditch,offshore,6180
+Worcester,N/A,52243
+Worcester,2less,9031
+Worcester,2_5,9421
+Worcester,5_10,3182
+Worcester,10_20,4021
+Worcester,20_30,2412
+Worcester,30_40,1865
+Worcester,40_60,643
+Worcester,60plus,634
+Worcester,home,13607
+Worcester,offshore,6810
+Wychavon,N/A,68832
+Wychavon,2less,6140
+Wychavon,2_5,5645
+Wychavon,5_10,6817
+Wychavon,10_20,7830
+Wychavon,20_30,4864
+Wychavon,30_40,1837
+Wychavon,40_60,1188
+Wychavon,60plus,793
+Wychavon,home,19207
+Wychavon,offshore,9339
+Wyre Forest,N/A,55818
+Wyre Forest,2less,6084
+Wyre Forest,2_5,6223
+Wyre Forest,5_10,4170
+Wyre Forest,10_20,5399
+Wyre Forest,20_30,3833
+Wyre Forest,30_40,937
+Wyre Forest,40_60,530
+Wyre Forest,60plus,496
+Wyre Forest,home,10559
+Wyre Forest,offshore,7560
+St Albans,N/A,75296
+St Albans,2less,5835
+St Albans,2_5,5168
+St Albans,5_10,5784
+St Albans,10_20,4886
+St Albans,20_30,2777
+St Albans,30_40,1984
+St Albans,40_60,477
+St Albans,60plus,376
+St Albans,home,38594
+St Albans,offshore,6990
+Welwyn Hatfield,N/A,61684
+Welwyn Hatfield,2less,6906
+Welwyn Hatfield,2_5,5628
+Welwyn Hatfield,5_10,5156
+Welwyn Hatfield,10_20,6270
+Welwyn Hatfield,20_30,2863
+Welwyn Hatfield,30_40,1420
+Welwyn Hatfield,40_60,451
+Welwyn Hatfield,60plus,428
+Welwyn Hatfield,home,21001
+Welwyn Hatfield,offshore,8026
+East Hertfordshire,N/A,73634
+East Hertfordshire,2less,6833
+East Hertfordshire,2_5,4480
+East Hertfordshire,5_10,6479
+East Hertfordshire,10_20,8345
+East Hertfordshire,20_30,3699
+East Hertfordshire,30_40,2774
+East Hertfordshire,40_60,1595
+East Hertfordshire,60plus,421
+East Hertfordshire,home,31278
+East Hertfordshire,offshore,10623
+Stevenage,N/A,44035
+Stevenage,2less,5542
+Stevenage,2_5,7476
+Stevenage,5_10,2617
+Stevenage,10_20,4278
+Stevenage,20_30,1991
+Stevenage,30_40,1388
+Stevenage,40_60,1312
+Stevenage,60plus,307
+Stevenage,home,12876
+Stevenage,offshore,7673
+East Suffolk,N/A,139694
+East Suffolk,2less,13979
+East Suffolk,2_5,11448
+East Suffolk,5_10,9105
+East Suffolk,10_20,13015
+East Suffolk,20_30,4367
+East Suffolk,30_40,3391
+East Suffolk,40_60,3432
+East Suffolk,60plus,2799
+East Suffolk,home,27774
+East Suffolk,offshore,17056
+West Suffolk,N/A,90329
+West Suffolk,2less,13525
+West Suffolk,2_5,8397
+West Suffolk,5_10,6553
+West Suffolk,10_20,10771
+West Suffolk,20_30,9094
+West Suffolk,30_40,2798
+West Suffolk,40_60,2137
+West Suffolk,60plus,1520
+West Suffolk,home,21104
+West Suffolk,offshore,13720
+Somerset West and Taunton,N/A,84151
+Somerset West and Taunton,2less,12175
+Somerset West and Taunton,2_5,8609
+Somerset West and Taunton,5_10,5857
+Somerset West and Taunton,10_20,7310
+Somerset West and Taunton,20_30,3701
+Somerset West and Taunton,30_40,2368
+Somerset West and Taunton,40_60,1268
+Somerset West and Taunton,60plus,1485
+Somerset West and Taunton,home,19392
+Somerset West and Taunton,offshore,11128
+Bury,N/A,105369
+Bury,2less,9801
+Bury,2_5,11859
+Bury,5_10,13467
+Bury,10_20,10454
+Bury,20_30,2261
+Bury,30_40,618
+Bury,40_60,580
+Bury,60plus,737
+Bury,home,26579
+Bury,offshore,12127
+Manchester,N/A,317655
+Manchester,2less,28238
+Manchester,2_5,39156
+Manchester,5_10,35535
+Manchester,10_20,17342
+Manchester,20_30,3211
+Manchester,30_40,1758
+Manchester,40_60,2232
+Manchester,60plus,3140
+Manchester,home,73964
+Manchester,offshore,29711
+Oldham,N/A,143882
+Oldham,2less,13138
+Oldham,2_5,17675
+Oldham,5_10,15256
+Oldham,10_20,9876
+Oldham,20_30,2317
+Oldham,30_40,1169
+Oldham,40_60,867
+Oldham,60plus,944
+Oldham,home,20903
+Oldham,offshore,16063
+Rochdale,N/A,129314
+Rochdale,2less,12367
+Rochdale,2_5,15850
+Rochdale,5_10,15092
+Rochdale,10_20,10392
+Rochdale,20_30,3000
+Rochdale,30_40,1025
+Rochdale,40_60,695
+Rochdale,60plus,964
+Rochdale,home,20151
+Rochdale,offshore,14920
+Salford,N/A,142317
+Salford,2less,16966
+Salford,2_5,20115
+Salford,5_10,17005
+Salford,10_20,12484
+Salford,20_30,2598
+Salford,30_40,1092
+Salford,40_60,1011
+Salford,60plus,1319
+Salford,home,39039
+Salford,offshore,15975
+Stockport,N/A,154967
+Stockport,2less,13182
+Stockport,2_5,19955
+Stockport,5_10,20186
+Stockport,10_20,14211
+Stockport,20_30,1993
+Stockport,30_40,815
+Stockport,40_60,1071
+Stockport,60plus,1112
+Stockport,home,50157
+Stockport,offshore,17124
+Tameside,N/A,125417
+Tameside,2less,12419
+Tameside,2_5,17406
+Tameside,5_10,17283
+Tameside,10_20,12293
+Tameside,20_30,1747
+Tameside,30_40,772
+Tameside,40_60,801
+Tameside,60plus,911
+Tameside,home,25970
+Tameside,offshore,16052
+Trafford,N/A,123494
+Trafford,2less,9724
+Trafford,2_5,14627
+Trafford,5_10,15256
+Trafford,10_20,9956
+Trafford,20_30,2121
+Trafford,30_40,864
+Trafford,40_60,923
+Trafford,60plus,955
+Trafford,home,45450
+Trafford,offshore,11680
+Wigan,N/A,174716
+Wigan,2less,17195
+Wigan,2_5,21538
+Wigan,5_10,22456
+Wigan,10_20,20660
+Wigan,20_30,8266
+Wigan,30_40,2384
+Wigan,40_60,649
+Wigan,60plus,1495
+Wigan,home,34432
+Wigan,offshore,25540
+Knowsley,N/A,85027
+Knowsley,2less,7623
+Knowsley,2_5,9779
+Knowsley,5_10,13422
+Knowsley,10_20,9465
+Knowsley,20_30,1206
+Knowsley,30_40,603
+Knowsley,40_60,556
+Knowsley,60plus,710
+Knowsley,home,14880
+Knowsley,offshore,11250
+Liverpool,N/A,280338
+Liverpool,2less,24023
+Liverpool,2_5,38963
+Liverpool,5_10,35699
+Liverpool,10_20,15132
+Liverpool,20_30,4026
+Liverpool,30_40,1052
+Liverpool,40_60,2374
+Liverpool,60plus,2391
+Liverpool,home,53721
+Liverpool,offshore,28372
+St. Helens,N/A,100625
+St. Helens,2less,8428
+St. Helens,2_5,13414
+St. Helens,5_10,12468
+St. Helens,10_20,11439
+St. Helens,20_30,3079
+St. Helens,30_40,1496
+St. Helens,40_60,378
+St. Helens,60plus,779
+St. Helens,home,18973
+St. Helens,offshore,12169
+Sefton,N/A,154635
+Sefton,2less,14520
+Sefton,2_5,15944
+Sefton,5_10,14452
+Sefton,10_20,15818
+Sefton,20_30,6454
+Sefton,30_40,1669
+Sefton,40_60,1233
+Sefton,60plus,1174
+Sefton,home,34750
+Sefton,offshore,18583
+Wirral,N/A,180696
+Wirral,2less,14177
+Wirral,2_5,21803
+Wirral,5_10,23925
+Wirral,10_20,14991
+Wirral,20_30,4459
+Wirral,30_40,1099
+Wirral,40_60,1277
+Wirral,60plus,1641
+Wirral,home,37299
+Wirral,offshore,18832
+Barnsley,N/A,132892
+Barnsley,2less,11844
+Barnsley,2_5,15670
+Barnsley,5_10,17395
+Barnsley,10_20,16906
+Barnsley,20_30,5746
+Barnsley,30_40,1353
+Barnsley,40_60,714
+Barnsley,60plus,1291
+Barnsley,home,22340
+Barnsley,offshore,18422
+Doncaster,N/A,170248
+Doncaster,2less,15107
+Doncaster,2_5,19924
+Doncaster,5_10,22414
+Doncaster,10_20,17756
+Doncaster,20_30,7327
+Doncaster,30_40,2960
+Doncaster,40_60,2014
+Doncaster,60plus,2135
+Doncaster,home,25503
+Doncaster,offshore,22719
+Rotherham,N/A,148004
+Rotherham,2less,10991
+Rotherham,2_5,16097
+Rotherham,5_10,20778
+Rotherham,10_20,17958
+Rotherham,20_30,3297
+Rotherham,30_40,1308
+Rotherham,40_60,1414
+Rotherham,60plus,1457
+Rotherham,home,24750
+Rotherham,offshore,19755
+Newcastle upon Tyne,N/A,175047
+Newcastle upon Tyne,2less,14494
+Newcastle upon Tyne,2_5,23425
+Newcastle upon Tyne,5_10,18936
+Newcastle upon Tyne,10_20,8795
+Newcastle upon Tyne,20_30,2430
+Newcastle upon Tyne,30_40,596
+Newcastle upon Tyne,40_60,1110
+Newcastle upon Tyne,60plus,2172
+Newcastle upon Tyne,home,37529
+Newcastle upon Tyne,offshore,15591
+North Tyneside,N/A,111702
+North Tyneside,2less,9667
+North Tyneside,2_5,15154
+North Tyneside,5_10,15781
+North Tyneside,10_20,10744
+North Tyneside,20_30,1126
+North Tyneside,30_40,496
+North Tyneside,40_60,588
+North Tyneside,60plus,1218
+North Tyneside,home,30738
+North Tyneside,offshore,11752
+South Tyneside,N/A,85268
+South Tyneside,2less,7053
+South Tyneside,2_5,10322
+South Tyneside,5_10,11382
+South Tyneside,10_20,6771
+South Tyneside,20_30,1082
+South Tyneside,30_40,227
+South Tyneside,40_60,504
+South Tyneside,60plus,919
+South Tyneside,home,14779
+South Tyneside,offshore,9466
+Sunderland,N/A,157021
+Sunderland,2less,13789
+Sunderland,2_5,20071
+Sunderland,5_10,19596
+Sunderland,10_20,14598
+Sunderland,20_30,2222
+Sunderland,30_40,1225
+Sunderland,40_60,532
+Sunderland,60plus,1408
+Sunderland,home,27418
+Sunderland,offshore,16292
+Birmingham,N/A,702501
+Birmingham,2less,44638
+Birmingham,2_5,72746
+Birmingham,5_10,77482
+Birmingham,10_20,43586
+Birmingham,20_30,11183
+Birmingham,30_40,4907
+Birmingham,40_60,3655
+Birmingham,60plus,7021
+Birmingham,home,114058
+Birmingham,offshore,63142
+Coventry,N/A,195181
+Coventry,2less,17375
+Coventry,2_5,28940
+Coventry,5_10,20030
+Coventry,10_20,13613
+Coventry,20_30,7386
+Coventry,30_40,1979
+Coventry,40_60,1367
+Coventry,60plus,2320
+Coventry,home,38674
+Coventry,offshore,18458
+Dudley,N/A,178848
+Dudley,2less,15801
+Dudley,2_5,26910
+Dudley,5_10,24364
+Dudley,10_20,16564
+Dudley,20_30,3469
+Dudley,30_40,1130
+Dudley,40_60,889
+Dudley,60plus,1396
+Dudley,home,31434
+Dudley,offshore,22683
+Sandwell,N/A,200760
+Sandwell,2less,15744
+Sandwell,2_5,28398
+Sandwell,5_10,27685
+Sandwell,10_20,13427
+Sandwell,20_30,2812
+Sandwell,30_40,1519
+Sandwell,40_60,1461
+Sandwell,60plus,2009
+Sandwell,home,26347
+Sandwell,offshore,21669
+Solihull,N/A,118301
+Solihull,2less,6991
+Solihull,2_5,12004
+Solihull,5_10,14712
+Solihull,10_20,11189
+Solihull,20_30,3590
+Solihull,30_40,916
+Solihull,40_60,498
+Solihull,60plus,1236
+Solihull,home,35366
+Solihull,offshore,11437
+Walsall,N/A,165591
+Walsall,2less,13564
+Walsall,2_5,19909
+Walsall,5_10,20290
+Walsall,10_20,16610
+Walsall,20_30,3248
+Walsall,30_40,1228
+Walsall,40_60,1122
+Walsall,60plus,1376
+Walsall,home,22044
+Walsall,offshore,19140
+Wolverhampton,N/A,152418
+Wolverhampton,2less,13579
+Wolverhampton,2_5,22477
+Wolverhampton,5_10,16659
+Wolverhampton,10_20,10977
+Wolverhampton,20_30,6431
+Wolverhampton,30_40,1185
+Wolverhampton,40_60,1153
+Wolverhampton,60plus,1664
+Wolverhampton,home,21002
+Wolverhampton,offshore,16185
+Bradford,N/A,325274
+Bradford,2less,28842
+Bradford,2_5,38445
+Bradford,5_10,30777
+Bradford,10_20,24935
+Bradford,20_30,5737
+Bradford,30_40,1476
+Bradford,40_60,1581
+Bradford,60plus,1952
+Bradford,home,55396
+Bradford,offshore,31998
+Calderdale,N/A,113250
+Calderdale,2less,11434
+Calderdale,2_5,13584
+Calderdale,5_10,12785
+Calderdale,10_20,9424
+Calderdale,20_30,3282
+Calderdale,30_40,1098
+Calderdale,40_60,592
+Calderdale,60plus,803
+Calderdale,home,27280
+Calderdale,offshore,13099
+Kirklees,N/A,243131
+Kirklees,2less,22942
+Kirklees,2_5,29011
+Kirklees,5_10,25937
+Kirklees,10_20,23816
+Kirklees,20_30,6373
+Kirklees,30_40,2295
+Kirklees,40_60,1245
+Kirklees,60plus,1650
+Kirklees,home,49908
+Kirklees,offshore,26909
+Leeds,N/A,437891
+Leeds,2less,37863
+Leeds,2_5,53123
+Leeds,5_10,54340
+Leeds,10_20,35846
+Leeds,20_30,9256
+Leeds,30_40,2959
+Leeds,40_60,2279
+Leeds,60plus,4622
+Leeds,home,126585
+Leeds,offshore,47191
+Wakefield,N/A,188729
+Wakefield,2less,18463
+Wakefield,2_5,22509
+Wakefield,5_10,23212
+Wakefield,10_20,27684
+Wakefield,20_30,6980
+Wakefield,30_40,2379
+Wakefield,40_60,956
+Wakefield,60plus,1762
+Wakefield,home,36965
+Wakefield,offshore,23731
+Gateshead,N/A,108632
+Gateshead,2less,9378
+Gateshead,2_5,14840
+Gateshead,5_10,15288
+Gateshead,10_20,9377
+Gateshead,20_30,1742
+Gateshead,30_40,441
+Gateshead,40_60,574
+Gateshead,60plus,957
+Gateshead,home,23427
+Gateshead,offshore,11495
+City of London,N/A,3232
+City of London,2less,676
+City of London,2_5,385
+City of London,5_10,241
+City of London,10_20,82
+City of London,20_30,15
+City of London,30_40,7
+City of London,40_60,9
+City of London,60plus,28
+City of London,home,3602
+City of London,offshore,303
+Barking and Dagenham,N/A,124280
+Barking and Dagenham,2less,6478
+Barking and Dagenham,2_5,11954
+Barking and Dagenham,5_10,11182
+Barking and Dagenham,10_20,16820
+Barking and Dagenham,20_30,4677
+Barking and Dagenham,30_40,1056
+Barking and Dagenham,40_60,594
+Barking and Dagenham,60plus,1032
+Barking and Dagenham,home,19572
+Barking and Dagenham,offshore,21224
+Barnet,N/A,203170
+Barnet,2less,12676
+Barnet,2_5,15501
+Barnet,5_10,23510
+Barnet,10_20,22122
+Barnet,20_30,2294
+Barnet,30_40,795
+Barnet,40_60,619
+Barnet,60plus,1162
+Barnet,home,79628
+Barnet,offshore,27869
+Bexley,N/A,128489
+Bexley,2less,7959
+Bexley,2_5,13246
+Bexley,5_10,13754
+Bexley,10_20,15404
+Bexley,20_30,4488
+Bexley,30_40,1014
+Bexley,40_60,591
+Bexley,60plus,835
+Bexley,home,40692
+Bexley,offshore,20001
+Brent,N/A,178819
+Brent,2less,13873
+Brent,2_5,23212
+Brent,5_10,23900
+Brent,10_20,16535
+Brent,20_30,2057
+Brent,30_40,623
+Brent,40_60,566
+Brent,60plus,1478
+Brent,home,48987
+Brent,offshore,29763
+Bromley,N/A,167869
+Bromley,2less,9359
+Bromley,2_5,13633
+Bromley,5_10,15786
+Bromley,10_20,19654
+Bromley,20_30,4464
+Bromley,30_40,1046
+Bromley,40_60,495
+Bromley,60plus,841
+Bromley,home,75511
+Bromley,offshore,21333
+Camden,N/A,107625
+Camden,2less,9572
+Camden,2_5,11530
+Camden,5_10,9350
+Camden,10_20,2928
+Camden,20_30,562
+Camden,30_40,192
+Camden,40_60,247
+Camden,60plus,593
+Camden,home,58110
+Camden,offshore,9429
+Croydon,N/A,201312
+Croydon,2less,13941
+Croydon,2_5,19863
+Croydon,5_10,23782
+Croydon,10_20,24188
+Croydon,20_30,4639
+Croydon,30_40,1006
+Croydon,40_60,797
+Croydon,60plus,1175
+Croydon,home,70976
+Croydon,offshore,29040
+Ealing,N/A,192088
+Ealing,2less,14152
+Ealing,2_5,20953
+Ealing,5_10,25070
+Ealing,10_20,18816
+Ealing,20_30,2623
+Ealing,30_40,704
+Ealing,40_60,687
+Ealing,60plus,1218
+Ealing,home,63137
+Ealing,offshore,27663
+Enfield,N/A,186120
+Enfield,2less,12252
+Enfield,2_5,17946
+Enfield,5_10,16531
+Enfield,10_20,20771
+Enfield,20_30,3068
+Enfield,30_40,1049
+Enfield,40_60,602
+Enfield,60plus,1073
+Enfield,home,44977
+Enfield,offshore,25595
+Greenwich,N/A,146134
+Greenwich,2less,9067
+Greenwich,2_5,13805
+Greenwich,5_10,17879
+Greenwich,10_20,19159
+Greenwich,20_30,2135
+Greenwich,30_40,1090
+Greenwich,40_60,618
+Greenwich,60plus,1164
+Greenwich,home,57959
+Greenwich,offshore,20058
+Hammersmith and Fulham,N/A,85064
+Hammersmith and Fulham,2less,9057
+Hammersmith and Fulham,2_5,11105
+Hammersmith and Fulham,5_10,12067
+Hammersmith and Fulham,10_20,3567
+Hammersmith and Fulham,20_30,553
+Hammersmith and Fulham,30_40,230
+Hammersmith and Fulham,40_60,213
+Hammersmith and Fulham,60plus,511
+Hammersmith and Fulham,home,51319
+Hammersmith and Fulham,offshore,9471
+Haringey,N/A,129857
+Haringey,2less,8994
+Haringey,2_5,11812
+Haringey,5_10,21803
+Haringey,10_20,11498
+Haringey,20_30,1642
+Haringey,30_40,481
+Haringey,40_60,425
+Haringey,60plus,923
+Haringey,home,55767
+Haringey,offshore,21036
+Harrow,N/A,136166
+Harrow,2less,8875
+Harrow,2_5,12883
+Harrow,5_10,13939
+Harrow,10_20,16161
+Harrow,20_30,3727
+Harrow,30_40,848
+Harrow,40_60,663
+Harrow,60plus,1140
+Harrow,home,45175
+Harrow,offshore,21626
+Havering,N/A,137271
+Havering,2less,9023
+Havering,2_5,12603
+Havering,5_10,12030
+Havering,10_20,13443
+Havering,20_30,9816
+Havering,30_40,1670
+Havering,40_60,674
+Havering,60plus,823
+Havering,home,41654
+Havering,offshore,23048
+Hillingdon,N/A,163104
+Hillingdon,2less,11426
+Hillingdon,2_5,17575
+Hillingdon,5_10,20004
+Hillingdon,10_20,15907
+Hillingdon,20_30,6492
+Hillingdon,30_40,1261
+Hillingdon,40_60,677
+Hillingdon,60plus,1193
+Hillingdon,home,45193
+Hillingdon,offshore,23077
+Hounslow,N/A,149381
+Hounslow,2less,11506
+Hounslow,2_5,19269
+Hounslow,5_10,20792
+Hounslow,10_20,14596
+Hounslow,20_30,2943
+Hounslow,30_40,904
+Hounslow,40_60,526
+Hounslow,60plus,1200
+Hounslow,home,45047
+Hounslow,offshore,22017
+Islington,N/A,101619
+Islington,2less,8926
+Islington,2_5,15366
+Islington,5_10,10635
+Islington,10_20,3395
+Islington,20_30,735
+Islington,30_40,253
+Islington,40_60,219
+Islington,60plus,580
+Islington,home,64530
+Islington,offshore,10332
+Kensington and Chelsea,N/A,73935
+Kensington and Chelsea,2less,5634
+Kensington and Chelsea,2_5,8557
+Kensington and Chelsea,5_10,6076
+Kensington and Chelsea,10_20,1674
+Kensington and Chelsea,20_30,285
+Kensington and Chelsea,30_40,112
+Kensington and Chelsea,40_60,163
+Kensington and Chelsea,60plus,427
+Kensington and Chelsea,home,40010
+Kensington and Chelsea,offshore,6504
+Kingston upon Thames,N/A,83915
+Kingston upon Thames,2less,7951
+Kingston upon Thames,2_5,8660
+Kingston upon Thames,5_10,7750
+Kingston upon Thames,10_20,7869
+Kingston upon Thames,20_30,1543
+Kingston upon Thames,30_40,435
+Kingston upon Thames,40_60,272
+Kingston upon Thames,60plus,479
+Kingston upon Thames,home,39251
+Kingston upon Thames,offshore,9938
+Lambeth,N/A,134835
+Lambeth,2less,10256
+Lambeth,2_5,20798
+Lambeth,5_10,27500
+Lambeth,10_20,8821
+Lambeth,20_30,1298
+Lambeth,30_40,542
+Lambeth,40_60,479
+Lambeth,60plus,1032
+Lambeth,home,91770
+Lambeth,offshore,20323
+Lewisham,N/A,144841
+Lewisham,2less,9586
+Lewisham,2_5,15739
+Lewisham,5_10,22627
+Lewisham,10_20,14511
+Lewisham,20_30,1324
+Lewisham,30_40,695
+Lewisham,40_60,436
+Lewisham,60plus,963
+Lewisham,home,69977
+Lewisham,offshore,19854
+Merton,N/A,103124
+Merton,2less,7964
+Merton,2_5,12008
+Merton,5_10,12582
+Merton,10_20,11940
+Merton,20_30,1292
+Merton,30_40,464
+Merton,40_60,317
+Merton,60plus,667
+Merton,home,48419
+Merton,offshore,16412
+Newham,N/A,187591
+Newham,2less,13109
+Newham,2_5,18566
+Newham,5_10,23513
+Newham,10_20,22586
+Newham,20_30,3134
+Newham,30_40,1211
+Newham,40_60,867
+Newham,60plus,1646
+Newham,home,47737
+Newham,offshore,31078
+Redbridge,N/A,168633
+Redbridge,2less,9479
+Redbridge,2_5,12953
+Redbridge,5_10,16676
+Redbridge,10_20,20959
+Redbridge,20_30,4293
+Redbridge,30_40,1421
+Redbridge,40_60,704
+Redbridge,60plus,1265
+Redbridge,home,49406
+Redbridge,offshore,24471
+Richmond upon Thames,N/A,97713
+Richmond upon Thames,2less,6171
+Richmond upon Thames,2_5,7734
+Richmond upon Thames,5_10,7975
+Richmond upon Thames,10_20,7543
+Richmond upon Thames,20_30,1127
+Richmond upon Thames,30_40,387
+Richmond upon Thames,40_60,244
+Richmond upon Thames,60plus,467
+Richmond upon Thames,home,57322
+Richmond upon Thames,offshore,8595
+Southwark,N/A,140689
+Southwark,2less,13354
+Southwark,2_5,23403
+Southwark,5_10,21496
+Southwark,10_20,7014
+Southwark,20_30,1171
+Southwark,30_40,614
+Southwark,40_60,524
+Southwark,60plus,1163
+Southwark,home,80842
+Southwark,offshore,17367
+Sutton,N/A,105415
+Sutton,2less,9304
+Sutton,2_5,13798
+Sutton,5_10,12352
+Sutton,10_20,10763
+Sutton,20_30,1813
+Sutton,30_40,504
+Sutton,40_60,364
+Sutton,60plus,586
+Sutton,home,38024
+Sutton,offshore,16716
+Tower Hamlets,N/A,154914
+Tower Hamlets,2less,14961
+Tower Hamlets,2_5,18779
+Tower Hamlets,5_10,17789
+Tower Hamlets,10_20,6560
+Tower Hamlets,20_30,1016
+Tower Hamlets,30_40,592
+Tower Hamlets,40_60,685
+Tower Hamlets,60plus,991
+Tower Hamlets,home,78219
+Tower Hamlets,offshore,15802
+Waltham Forest,N/A,138054
+Waltham Forest,2less,9939
+Waltham Forest,2_5,12834
+Waltham Forest,5_10,18624
+Waltham Forest,10_20,16894
+Waltham Forest,20_30,2100
+Waltham Forest,30_40,811
+Waltham Forest,40_60,493
+Waltham Forest,60plus,996
+Waltham Forest,home,52765
+Waltham Forest,offshore,24917
+Wandsworth,N/A,137064
+Wandsworth,2less,11655
+Wandsworth,2_5,18303
+Wandsworth,5_10,23644
+Wandsworth,10_20,9786
+Wandsworth,20_30,1216
+Wandsworth,30_40,557
+Wandsworth,40_60,431
+Wandsworth,60plus,923
+Wandsworth,home,107639
+Wandsworth,offshore,16289
+Westminster,N/A,102494
+Westminster,2less,10299
+Westminster,2_5,13785
+Westminster,5_10,7140
+Westminster,10_20,2497
+Westminster,20_30,510
+Westminster,30_40,255
+Westminster,40_60,239
+Westminster,60plus,621
+Westminster,home,56766
+Westminster,offshore,9630
+Isle of Anglesey,N/A,39676
+Isle of Anglesey,2less,3427
+Isle of Anglesey,2_5,2483
+Isle of Anglesey,5_10,3145
+Isle of Anglesey,10_20,3941
+Isle of Anglesey,20_30,2312
+Isle of Anglesey,30_40,1024
+Isle of Anglesey,40_60,506
+Isle of Anglesey,60plus,1138
+Isle of Anglesey,home,6573
+Isle of Anglesey,offshore,4653
+Gwynedd,N/A,65575
+Gwynedd,2less,7194
+Gwynedd,2_5,3807
+Gwynedd,5_10,5649
+Gwynedd,10_20,6019
+Gwynedd,20_30,3147
+Gwynedd,30_40,1777
+Gwynedd,40_60,1603
+Gwynedd,60plus,1942
+Gwynedd,home,12259
+Gwynedd,offshore,8421
+Conwy,N/A,66018
+Conwy,2less,6033
+Conwy,2_5,5733
+Conwy,5_10,5864
+Conwy,10_20,5588
+Conwy,20_30,2875
+Conwy,30_40,1138
+Conwy,40_60,1284
+Conwy,60plus,1270
+Conwy,home,11381
+Conwy,offshore,7557
+Denbighshire,N/A,54971
+Denbighshire,2less,5751
+Denbighshire,2_5,3772
+Denbighshire,5_10,5605
+Denbighshire,10_20,4558
+Denbighshire,20_30,3154
+Denbighshire,30_40,1670
+Denbighshire,40_60,987
+Denbighshire,60plus,863
+Denbighshire,home,8600
+Denbighshire,offshore,5886
+Flintshire,N/A,81142
+Flintshire,2less,6520
+Flintshire,2_5,8775
+Flintshire,5_10,11970
+Flintshire,10_20,12964
+Flintshire,20_30,4291
+Flintshire,30_40,1639
+Flintshire,40_60,1004
+Flintshire,60plus,1310
+Flintshire,home,16269
+Flintshire,offshore,9081
+Wrexham,N/A,73312
+Wrexham,2less,7398
+Wrexham,2_5,11045
+Wrexham,5_10,10181
+Wrexham,10_20,7854
+Wrexham,20_30,3131
+Wrexham,30_40,1285
+Wrexham,40_60,939
+Wrexham,60plus,938
+Wrexham,home,11277
+Wrexham,offshore,7757
+Ceredigion,N/A,41356
+Ceredigion,2less,4011
+Ceredigion,2_5,1842
+Ceredigion,5_10,2670
+Ceredigion,10_20,2565
+Ceredigion,20_30,1549
+Ceredigion,30_40,992
+Ceredigion,40_60,992
+Ceredigion,60plus,1165
+Ceredigion,home,9524
+Ceredigion,offshore,4809
+Pembrokeshire,N/A,70595
+Pembrokeshire,2less,6915
+Pembrokeshire,2_5,4566
+Pembrokeshire,5_10,6074
+Pembrokeshire,10_20,7790
+Pembrokeshire,20_30,2742
+Pembrokeshire,30_40,1116
+Pembrokeshire,40_60,962
+Pembrokeshire,60plus,1482
+Pembrokeshire,home,12179
+Pembrokeshire,offshore,8939
+Carmarthenshire,N/A,105946
+Carmarthenshire,2less,9864
+Carmarthenshire,2_5,7382
+Carmarthenshire,5_10,6726
+Carmarthenshire,10_20,13855
+Carmarthenshire,20_30,6504
+Carmarthenshire,30_40,2072
+Carmarthenshire,40_60,1824
+Carmarthenshire,60plus,2140
+Carmarthenshire,home,19243
+Carmarthenshire,offshore,12341
+Swansea,N/A,137877
+Swansea,2less,11575
+Swansea,2_5,17665
+Swansea,5_10,17719
+Swansea,10_20,8857
+Swansea,20_30,1795
+Swansea,30_40,1431
+Swansea,40_60,1294
+Swansea,60plus,1828
+Swansea,home,25495
+Swansea,offshore,12954
+Neath Port Talbot,N/A,83100
+Neath Port Talbot,2less,6188
+Neath Port Talbot,2_5,6612
+Neath Port Talbot,5_10,9459
+Neath Port Talbot,10_20,10054
+Neath Port Talbot,20_30,3189
+Neath Port Talbot,30_40,953
+Neath Port Talbot,40_60,1209
+Neath Port Talbot,60plus,931
+Neath Port Talbot,home,12464
+Neath Port Talbot,offshore,8130
+Bridgend,N/A,81504
+Bridgend,2less,7612
+Bridgend,2_5,7547
+Bridgend,5_10,7999
+Bridgend,10_20,8991
+Bridgend,20_30,4823
+Bridgend,30_40,2252
+Bridgend,40_60,626
+Bridgend,60plus,941
+Bridgend,home,14375
+Bridgend,offshore,8819
+Vale of Glamorgan,N/A,72024
+Vale of Glamorgan,2less,6402
+Vale of Glamorgan,2_5,5552
+Vale of Glamorgan,5_10,8301
+Vale of Glamorgan,10_20,7103
+Vale of Glamorgan,20_30,2537
+Vale of Glamorgan,30_40,701
+Vale of Glamorgan,40_60,622
+Vale of Glamorgan,60plus,766
+Vale of Glamorgan,home,20395
+Vale of Glamorgan,offshore,7536
+Cardiff,N/A,201869
+Cardiff,2less,19755
+Cardiff,2_5,26481
+Cardiff,5_10,19571
+Cardiff,10_20,8995
+Cardiff,20_30,3865
+Cardiff,30_40,1831
+Cardiff,40_60,1643
+Cardiff,60plus,2220
+Cardiff,home,57855
+Cardiff,offshore,18223
+Rhondda Cynon Taf,N/A,134262
+Rhondda Cynon Taf,2less,9001
+Rhondda Cynon Taf,2_5,10601
+Rhondda Cynon Taf,5_10,14476
+Rhondda Cynon Taf,10_20,18360
+Rhondda Cynon Taf,20_30,7519
+Rhondda Cynon Taf,30_40,2379
+Rhondda Cynon Taf,40_60,827
+Rhondda Cynon Taf,60plus,1468
+Rhondda Cynon Taf,home,22563
+Rhondda Cynon Taf,offshore,16195
+Caerphilly,N/A,98513
+Caerphilly,2less,7881
+Caerphilly,2_5,8955
+Caerphilly,5_10,11158
+Caerphilly,10_20,13894
+Caerphilly,20_30,3622
+Caerphilly,30_40,854
+Caerphilly,40_60,777
+Caerphilly,60plus,890
+Caerphilly,home,18473
+Caerphilly,offshore,10933
+Blaenau Gwent,N/A,38105
+Blaenau Gwent,2less,3488
+Blaenau Gwent,2_5,4271
+Blaenau Gwent,5_10,3603
+Blaenau Gwent,10_20,5359
+Blaenau Gwent,20_30,2106
+Blaenau Gwent,30_40,852
+Blaenau Gwent,40_60,618
+Blaenau Gwent,60plus,437
+Blaenau Gwent,home,4036
+Blaenau Gwent,offshore,4030
+Torfaen,N/A,51621
+Torfaen,2less,5084
+Torfaen,2_5,5442
+Torfaen,5_10,6022
+Torfaen,10_20,5481
+Torfaen,20_30,2180
+Torfaen,30_40,735
+Torfaen,40_60,467
+Torfaen,60plus,548
+Torfaen,home,9051
+Torfaen,offshore,5645
+Monmouthshire,N/A,50127
+Monmouthshire,2less,4682
+Monmouthshire,2_5,1899
+Monmouthshire,5_10,3222
+Monmouthshire,10_20,5448
+Monmouthshire,20_30,3497
+Monmouthshire,30_40,1793
+Monmouthshire,40_60,938
+Monmouthshire,60plus,931
+Monmouthshire,home,14708
+Monmouthshire,offshore,5712
+Newport,N/A,86803
+Newport,2less,8188
+Newport,2_5,11848
+Newport,5_10,8800
+Newport,10_20,7255
+Newport,20_30,4570
+Newport,30_40,1489
+Newport,40_60,702
+Newport,60plus,995
+Newport,home,20385
+Newport,offshore,8558
+Powys,N/A,71443
+Powys,2less,8048
+Powys,2_5,3139
+Powys,5_10,4012
+Powys,10_20,6316
+Powys,20_30,4010
+Powys,30_40,2075
+Powys,40_60,2288
+Powys,60plus,2993
+Powys,home,18698
+Powys,offshore,10147
+Merthyr Tydfil,N/A,33204
+Merthyr Tydfil,2less,3903
+Merthyr Tydfil,2_5,3968
+Merthyr Tydfil,5_10,2399
+Merthyr Tydfil,10_20,3001
+Merthyr Tydfil,20_30,1986
+Merthyr Tydfil,30_40,999
+Merthyr Tydfil,40_60,241
+Merthyr Tydfil,60plus,348
+Merthyr Tydfil,home,4666
+Merthyr Tydfil,offshore,4121
+Scarborough,N/A,62186
+Scarborough,2less,10414
+Scarborough,2_5,6352
+Scarborough,5_10,4248
+Scarborough,10_20,2794
+Scarborough,20_30,2943
+Scarborough,30_40,1208
+Scarborough,40_60,959
+Scarborough,60plus,1357
+Scarborough,home,8837
+Scarborough,offshore,7436
+Mansfield,N/A,59115
+Mansfield,2less,6094
+Mansfield,2_5,9631
+Mansfield,5_10,8096
+Mansfield,10_20,6410
+Mansfield,20_30,2429
+Mansfield,30_40,851
+Mansfield,40_60,476
+Mansfield,60plus,695
+Mansfield,home,8757
+Mansfield,offshore,7928
+Staffordshire Moorlands,N/A,50810
+Staffordshire Moorlands,2less,4784
+Staffordshire Moorlands,2_5,2795
+Staffordshire Moorlands,5_10,6396
+Staffordshire Moorlands,10_20,8863
+Staffordshire Moorlands,20_30,2082
+Staffordshire Moorlands,30_40,987
+Staffordshire Moorlands,40_60,845
+Staffordshire Moorlands,60plus,558
+Staffordshire Moorlands,home,10949
+Staffordshire Moorlands,offshore,6774
+Ipswich,N/A,72616
+Ipswich,2less,11166
+Ipswich,2_5,12594
+Ipswich,5_10,5498
+Ipswich,10_20,5460
+Ipswich,20_30,2013
+Ipswich,30_40,1353
+Ipswich,40_60,819
+Ipswich,60plus,1109
+Ipswich,home,16664
+Ipswich,offshore,10350
+Surrey Heath,N/A,45090
+Surrey Heath,2less,3829
+Surrey Heath,2_5,4163
+Surrey Heath,5_10,4362
+Surrey Heath,10_20,4627
+Surrey Heath,20_30,2229
+Surrey Heath,30_40,782
+Surrey Heath,40_60,764
+Surrey Heath,60plus,440
+Surrey Heath,home,18509
+Surrey Heath,offshore,5659
+Bolton,N/A,170525
+Bolton,2less,15111
+Bolton,2_5,20309
+Bolton,5_10,17711
+Bolton,10_20,14225
+Bolton,20_30,5699
+Bolton,30_40,1002
+Bolton,40_60,593
+Bolton,60plus,1106
+Bolton,home,29568
+Bolton,offshore,20113
+Sheffield,N/A,314514
+Sheffield,2less,26487
+Sheffield,2_5,42659
+Sheffield,5_10,40297
+Sheffield,10_20,18253
+Sheffield,20_30,4706
+Sheffield,30_40,2137
+Sheffield,40_60,2384
+Sheffield,60plus,2886
+Sheffield,home,69654
+Sheffield,offshore,32544
+Hackney,N/A,124838
+Hackney,2less,13715
+Hackney,2_5,16334
+Hackney,5_10,15674
+Hackney,10_20,5068
+Hackney,20_30,843
+Hackney,30_40,319
+Hackney,40_60,370
+Hackney,60plus,724
+Hackney,home,66844
+Hackney,offshore,14420
+Rochford,N/A,45003
+Rochford,2less,2488
+Rochford,2_5,3762
+Rochford,5_10,5723
+Rochford,10_20,2767
+Rochford,20_30,1279
+Rochford,30_40,838
+Rochford,40_60,1597
+Rochford,60plus,435
+Rochford,home,14659
+Rochford,offshore,7110
+Uttlesford,N/A,45598
+Uttlesford,2less,3033
+Uttlesford,2_5,2383
+Uttlesford,5_10,3371
+Uttlesford,10_20,5304
+Uttlesford,20_30,2565
+Uttlesford,30_40,1634
+Uttlesford,40_60,1858
+Uttlesford,60plus,614
+Uttlesford,home,18011
+Uttlesford,offshore,6969
+Ashford,N/A,69132
+Ashford,2less,7209
+Ashford,2_5,9105
+Ashford,5_10,3845
+Ashford,10_20,5100
+Ashford,20_30,3927
+Ashford,30_40,1822
+Ashford,40_60,981
+Ashford,60plus,2081
+Ashford,home,19120
+Ashford,offshore,10425
+Isles of Scilly,N/A,940
+Isles of Scilly,2less,311
+Isles of Scilly,2_5,32
+Isles of Scilly,5_10,9
+Isles of Scilly,10_20,0
+Isles of Scilly,20_30,0
+Isles of Scilly,30_40,0
+Isles of Scilly,40_60,13
+Isles of Scilly,60plus,216
+Isles of Scilly,home,322
+Isles of Scilly,offshore,211
+City of London,N/A,3232
+City of London,2less,676
+City of London,2_5,385
+City of London,5_10,241
+City of London,10_20,82
+City of London,20_30,15
+City of London,30_40,7
+City of London,40_60,9
+City of London,60plus,28
+City of London,home,3602
+City of London,offshore,303
